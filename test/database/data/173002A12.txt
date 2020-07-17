@@ -1,0 +1,847 @@
+﻿1. (2) 無障礙網頁開發規範共分為幾個等級？ ①三個 ②四個 ③五個 ④六個 。
+2. (4) 無障礙網頁開發規範不含何等級？ ①A ②AA ③A+ ④A++ 。
+3. (3) 色彩配色有分加色及減色混合，色光的三原色為何？ ①黃、白、紅 ②紅、 黃、綠 ③紅、綠、藍 ④紅、黃、紫 。
+4. (2) 色彩的色相、明度及彩度合稱為何？ ①三原色 ②三屬性 ③三色系 ④三 色立體 。
+5. (3) 色彩屬性的飽和程度或純度稱之為何？ ①色相 ②明度 ③彩度 ④色環 。
+6. (2) 色彩屬性的明暗程度稱之為何？ ①色相 ②明度 ③彩度 ④色調 。
+7. (2) 色彩三屬性進行有系統地排列，形成三度空間的結構稱之為何？ ①色環 ②色立體 ③色相 ④三原色 。
+8. (3) 色彩配色中，色光混色又稱之為何？ ①平均混色 ②互補混色 ③加法混 色 ④減法混色 。
+9. (4) 色彩配色中，色料混色又稱之為何？ ①平均混色 ②互補混色 ③加法混 色 ④減法混色 。
+10. (2) 會讓人有溫暖感覺的顏色為何？ ①藍色 ②橙色 ③紫色 ④綠色 。
+11. (4) 會讓人有寒冷感覺的顏色為何？ ①紅色 ②橙色 ③黃色 ④藍色 。
+12. (2) 影像處理軟體中，影像圖檔的色彩表示有 RGB 及 CMYK 色系，其中 CM YK 的「Y」表示為何？ ①黑色 ②黃色 ③青色 ④洋紅色 。
+13. (3) 電腦文字的字型有很多種， PostScript 字型屬於何種？ ①點陣字型 ②螢 幕字型 ③向量字型 ④描述字型 。
+14. (1) 影像處理軟體中，運用色彩選擇工具取得 RGB 值為(0,0,0)，其顯示的顏 色為何？ ①黑色 ②白色 ③灰色 ④紅色 。
+15. (1) 256 色的 GIF 圖檔，使用多少位元(bits)來表示索引？ ①8 ②16 ③24 ④3 2 。
+16. (3) 全彩的圖片每個像素至少使用多少位元 (bits)來表示？ ①8 ②16 ③24 ④3 2 。
+17. (1) 在設計幾何上，點的絕對定義為何？ ①有位置 ②有長度 ③有大小 ④有 寬度 。
+18. (1) 設計美學中，設計構成要素最小單位為何？ ①點 ②線 ③面 ④體 。
+19. (4) 設計美學中，圓、橢圓及拋物線為何種曲線？ ①幾何直線 ②自由曲線 ③徒手曲線 ④幾何曲線 。
+20. (3) 設計原理中，以中央設一縱軸，而左右或上下完全同形，稱之為何？ ① 律動 ②漸層 ③對稱 ④對比 。
+21. (1) 何種網頁設計技術可使頁面具有統一的外觀？ ①CSS ②URL ③HTML ④DHTML 。
+22. (3) 數位影像解析度的單位 ppi 是何種英文的縮寫？ ①Pica Per Inch ②Point Per Inch ③Pixel Per Inch ④Pixel Per Image 。
+23. (1) 何者不是無障礙網頁設計原則？ ①使用大量的影音內容 ②對於聽覺及 視覺的內容要提供相等的替代文字內容 ③不要單獨靠色彩來提供特殊資 訊 ④適當地使用標記語言和樣式表單 。
+24. (1) 何者不是無障礙網頁開發規範之設計原則？ ①靠多種色彩來提供特殊資 訊 ②確保使用者能處理時間敏感內容的改變 ③確保嵌入式使用者介面 具有直接可及性 ④設計裝置獨立網頁 。
+25. (1) 無障礙網頁設計原則不包含何者？ ①應使用單一廠商開發的特殊網頁技 術 ②提供清楚的瀏覽網站機制 ③確保簡單清楚的網頁內容 ④對於聽覺 及視覺的內容要提供相等的替代文字內容 。
+26. (4) 目前 TCP 已定義埠（Well-Known Port）之分布範圍為下列何者？ ①0～ 127 ②0～255 ③0～511 ④0～1023 。
+27. (3) 關於 HTML 與 XML 之敘述何者正確？ ①XML 主要用來加強 HTML 之網 頁編排能力 ②XML 標籤可與 HTML 標籤混合使用 ③XML 具有可擴充之 特性 ④XML 文件之結果可直接在瀏覽器中顯示出來 。
+28. (1) Web 架構可分為伺服端(Server Site)與客戶端(Client Site)，其兩者間的通 訊係透過何種協定來完成？ ①HTTP ②FTP ③TELNET ④SMTP 。
+29. (3) 何者可用來控制網頁顯示資料的格式？ ①Script ②XML ③CSS ④CGI 。
+30. (3) 何者最不適合作為網頁編輯器？ ①Frontpage ②Dreamweaver ③Cool Edi tor ④Notepad 。
+31. (2) 何者為 CSS 之全名？ ①College Scholarship Service ②Cascading Style S heets ③Communication Style Sheets ④Computer Serial Sheets 。
+32. (3) 首頁設計準則中，為了要準確傳達網站設計的意圖，較正確之概念為何？ ①首頁中涵蓋一段詳實完整的副標來說明網站或公司性質 ②首頁中使 用艱澀性的標題文字來吸引瀏覽者目光 ③首頁左上方放置組織名稱或標 誌比放置在右下方來得恰當 ④為了讓資訊透明化，內部資料亦應開誠佈 公地公布在網站中 。
+33. (3) 企業首頁設計準則中，內文的書寫要領，較不正確之概念為何？ ①不使 用艱澀的成語或行銷術語 ②儘量避免內文重複 ③為了隱密性，內部機密 資料可公布在網站較不明顯的地方 ④若網站無法清楚地顯示營利來源， 就必須說明如何創造企業價值 。
+34. (4) 對於一個 Well-formed 之 XML 文件的敘述何者不正確？ ①有開始標籤(T ag)必定要有結束標籤，否則要用空標籤 ②各組標籤之間不可交錯 ③至 少要具備 DTD 或 XML Schema ④屬性值可加可不加引號 。
+35. (2) 關於 XML 文件的設計目標何者不正確？ ①可直接在網路上使用 ②目前 尚無法運用在應用程式中 ③XML 文件的程式應讓設計者容易撰寫 ④XM L 文件應讓人直接閱讀，並能清楚的被理解 。
+36. (3) 何者是 XML 文件的資料查詢語言？ ①Query ②jQuery ③XQuery ④SQL 。
+37. (2) 視窗桌面上的捷徑物件為何？ ①是該程式的一部份不可刪除 ②是一個 Page 2 of 56 連結用的檔案，遺失可以再建立 ③是視窗系統中的重要物件，不可被破 壞 ④是程式主體不可刪除 。
+38. (2) 要移除在 Windows 作業系統中的套裝軟體，要如何處理最適當？ ①直接 刪除該套裝軟體的資料夾 ②利用控制台的「新增/移除程式」或該套裝軟 體的反安裝程式 ③刪除桌面上的捷徑即可 ④刪除程式集中的選項即可 。
+39. (3) 要離開 Window 系統並關機，何種方式才為正確操作方式？ ①按 PC 上 的 Reset 鍵 ②關閉 PC 上的電源 ③使用開始功能表的「電腦關機」 ④拔 掉電源插頭 。
+40. (1) 在 Windows 系統中，按什麼鍵可以把目前的螢幕畫面抓下來用？ ①Prin t Screen 鍵 ②Pause Break 鍵 ③Insert ④Wake 鍵 。
+41. (1) 在 Windows 視窗中，如何使用鍵盤在應用程式之間切換？ ①Alt+Tab 鍵 ②靠上面 12 個功能鍵 ③利用右邊數字鍵 ④按亮 Scroll Lock 燈 。
+42. (2) 在 Windows 系統中，欲結束 MS-DOS 模式並回到 Windows 時，可在 MS -DOS 的提示符號下輸入那一按鍵？ ①quit ②exit ③Alt+Enter ④Esc 。
+43. (3) 在 Windows 系統中，工作列的圖示列上顯示了特定時區的系統時間，若 欲同時調整系統日期、時間，該如何操作？ ①「控制台/系統」 ②「控 制台/顯示器」 ③在系統時間上連續按二下滑鼠左鍵 ④將滑鼠指向工作 列上的小時鐘圖示 。
+44. (2) 在 Windows 系統中，經由何項操作，就會出現該物件的快顯功 能表及相 關的一般指令？ ①按一下滑鼠左鍵 ②按一下滑鼠右鍵 ③連續按二下滑 鼠左鍵 ④連續按二下滑鼠右鍵 。
+45. (3) 如何才能讓鍵盤右邊的數字鍵順利輸出數字？ ①按[Shift] ②按亮[Caps l ock] ③按亮[Num Lock]燈 ④按亮[Scroll Lock] 燈 。
+46. (3) 相同的圖片在那一個螢幕解析度中看起來最小？ ①800×600 ②640×480 ③1280×960 ④1024×768 。
+47. (4) 圖形介面的作業環境中，何種色彩設定最不可能使用？ ①8 bits 的 256 色 ②24bits 的全彩 ③16bits 的高彩 ④4bits 的 16 色 。
+48. (1) 印表機買回來插好連接線和電源後不能正常使用，其原因最可能為何？ ①還要安裝驅動程式 ②印表機太好 ③印表機太差 ④等級不合 。
+49. (4) 在 Windows 系統中，若在視窗的標題欄上連按滑鼠左鍵二下，可完成那 一個操作？ ①將視窗最小化 ②移動視窗位置 ③關閉視窗 ④將視窗最大 化或還原成原來大小 。
+50. (1) 資料庫系統包含那四個主要元件？ ①資料、軟體、硬體、使用者 ②資料、 軟體、硬體、管理者 ③資料、軟體、使用者、管理者 ④軟體、硬體、使 用者、管理者 。
+51. (3) 資料庫系統中的使用者操作介面由何者負責撰寫？ ①資料庫設計者 ② 資料庫管理者 ③應用程式設計者 ④一般使用者 。
+52. (2) 何種架構的資料庫是將資料以表格的方式儲存，並利用表格之間的關聯 性來查詢相關資料？ ①階層式資料庫 ②關聯式資料庫 ③表格式資料庫 Page 3 of 56 ④物件導向式資料庫 。
+53. (4) 何種資料庫的架構是將管理及存取資料的工作集中由大型主機管理，使 用者端只能從大型主機中取得，並無任何處理的能力？ ①單機架構 ②主 從式架構 ③分散式架構 ④大型主機/終端機架構 。
+54. (3) 何者不是資料庫管理系統應具備的基本功能？ ①資料定義 ②資料處理 ③儲存資料 ④效能維護 。
+55. (2) 要在資料庫中新增一個欄位來儲存同學的姓名，則應該要將資料設定為 何種類型？ ①查閱精靈 ②文字 ③超連結 ④備忘 。
+56. (2) 數字資料的範圍介於 -100 到 100 之間，則選擇何種數字型態較適合？ ① 位元組 ②整數 ③長整數 ④小數 。
+57. (2) 欲加快資料搜尋及排序的速度，可在資料表中經常搜尋或排序的欄位上 做何種設定？ ①目錄 ②索引 ③查詢 ④標記 。
+58. (4) 假設學生實體中有一個地址屬性，為了方便區分，又將它再細分為城市 及街道名...等屬性，則此類屬性稱之為何？ ①子類型 ②推導屬性 ③鍵屬 性 ④複合屬性 。
+59. (3) Microsoft Office 之 Access 軟體中，要在一個資料表中新增一個電子郵件 欄位，當雙按該欄位的內容就會自動開啟郵件編輯器，則應該要將該欄 位設定為何種資料類型？ ①查閱精靈 ②文字 ③超連結 ④備忘 。
+60. (1) Microsoft Office 之 Access 軟體中，資料表未設定排序時，預設的排列順 序會依照何者來排序？ ①主鍵 ②索引 ③查詢 ④目錄 。
+61. (3) 資料庫作業環境中，用來儲存產品定價的欄位，應設定為那一種資料類 型較適當？ ①自動編號 ②數字 ③貨幣 ④文字 。
+62. (2) 資料庫作業環境中，若要一次將不相鄰的 3 個欄位設為主鍵，可利用何 鍵來輔助選取？ ①Alt ②Ctrl ③Tab ④Space 。
+63. (1) Microsoft Office 之 Access 軟體中，假設資料表有一個欄位在新增資料 時，該欄位能自動編號，則該欄位應設定為何種資料類型？ ①自動編號 ②數字 ③貨幣 ④文字 。
+64. (1) 按下 Microsoft Office 之 Access 索引鈕，會出現索引交談窗，若忽略 Nu ll 的值設為"是"，則代表何種意思？ ①索引會忽略該欄位的空值記錄 ② 索引會直接跳過該欄位，不予理會 ③索引不會排除此空值記錄 ④會忽略 所有打錯的記錄 。
+65. (3) Microsoft Office 之 Access 軟體中，何項功能可以將資料庫上傳到 SQL Server？ ①連結資料表管理員 ②切換表單管理員 ③SQL 轉換精靈 ④資 料轉換精靈 。
+66. (1) 若通訊傳輸速率為 1200bps，在不考慮其他影響因素下，每分鐘可傳輸多 少位元組？ ①9000 ②72000 ③15000 ④12000 。
+67. (4) 國際標準組織(ISO)的 OSI 通訊協定，負責資料加密和壓縮的是那一層？ ①網路層 ②傳輸層 ③資料鏈結層 ④展示層 。
+68. (3) 何種網路的拓撲型態，當有一部電腦故障時，網路的資料通訊最不會受 Page 4 of 56 到影響？ ①星狀式(Star) ②環狀式(Circle) ③網狀式(Mesh) ④匯流排式 (Bus) 。
+69. (3) 關於資料通訊之錯誤檢驗何者較佳？ ①vertical redundancy check ②long itudinal redundancy check ③cyclic redundancy ④parity check 。
+70. (3) 企業內之虛擬 IP 轉換為實體 IP 對外溝通時，需架設何種服務？ ①DHC P ②WINS ③NAT ④IIS 。
+71. (3) 何種協定提供 WWW 傳送資料時有加密的功能？ ①X.509 ②IPX ③SSL ④H.323 。
+72. (1) 中繼器(Repeater)之用途為何？ ①增強訊號用來延長網路傳輸距離 ②用 來過濾掉已毀損的資料 ③可以連接兩種不同存取方法的不同網路架構 ④進行路徑(Path)選擇 。
+73. (2) 網段無法 ping 到其他網段時，可利用何種指令來新增封包傳送的路徑？ ①netstat - nr ②route add ③net view ④route print 。
+74. (3) IP(Internet Protocol ) 是何種類型的通訊協定？ ①Connection -Oriented ② Application-Level ③Connection Less ④Media-Access Control 。
+75. (1) TCP ( Transmission Control Protocol ) 是何種類型的通訊協定？ ①Conne ction-Oriented ②Application -Level ③Connection Less ④Media-Access C ontrol 。
+76. (4) 欲使 Windows 系統存取 Linux 主機中的檔案，在 Linux 端至少需要何種 伺服器之服務？ ①FTP ②HTTP ③POSTFIX ④SAMBA 。
+77. (4) 何種同步光纖網路(Synchronous Optical Network) 之傳輸速率為 9953.28 Mbps？ ①OC-3 ②OC-12 ③OC-48 ④OC-192 。
+78. (1) 關於網路訊框傳送(Frame Relay)提供了何種功能，可在設定永久虛擬連 線(Permanent Virtual Circuit) 時，即設定保證提供的頻寬？ ①約定資訊 速率(Committed Information Rate) ②同步光纖網路(Synchronous Optical Network) ③封包交換(Packet Switching) ④分時多工(Time Division Mult iplexing) 。
+79. (4) 區域網路中的封包要轉換成訊框傳送，需使用何種裝置？ ①MODEM(Mo dulation Demodulation) ②同步光纖網路(Synchronous Optical Network) ③封包交換(Packet Switching) ④FRAD(Frame Relay Assembler/Disassem bler) 。
+80. (3) ATM(Asynchronous Transfer Mode) 網路中，終端的個人電腦與交換器必 須透過何種介面來連線？ ①AUI ②PCI ③UNI ④NNI 。
+81. (4) ATM(Asynchronous Transfer Mode) 網路中，交換器與交換器之間必須透 過何種介面來連線？ ①AUI ②PCI ③UNI ④NNI 。
+82. (4) 關於 ISO 網路之 OSI 的七層架構中，何者是負責提供兩個 users 使用約定 的通訊品質來傳送資料？ ①Data Link Layer ②Session Layer ③Presentat ion Layer ④Transport Layer 。
+83. (4) 網路中將欲傳輸的資料先進行壓縮，其目的為何？ ①減少可能的路徑 Page 5 of 56 ②移除線路的雜訊 ③移除重複的部份 ④減少傳輸的間隔時間 。
+84. (1) 關於網路傳輸之路徑表(Routing Table)的功用為何？ ①支援某些特定位 址的廣播 ②儲存電腦及網路的位址 ③傳送封包(Packet)到被正確定址的 中繼器(Repeater) ④提供每一部新作用電腦的位址 。
+85. (2) 路由器(Router)與橋接器(Bridge)之敘述何者最正確？ ①路由器可以支援 乙太網路，但無法使用於記號環(Token Ring)網路環境 ②路由器可在多 個路徑間做選擇 ③橋接器可在多個路徑間做選擇 ④橋接器可支援乙太 網路，但無法使用於記號環 (Token Ring)網路環境 。
+86. (1) 何種網路架構是每一台電腦同時扮演著客戶端 (Client)與伺服器端(Serve r)的角色？ ①P2P ②Client/Server ③WWW ④FTP 。
+87. (4) 客戶端/伺服器式(Client/Server)的網路架構相較於點對點式 (P2P)的網 路，其主要優點為何？ ①資料傳遞速度較快 ②可建構在不同的平台之上 ③系統運作較為穩定 ④中央集權式管理，資料具一致性 。
+88. (2) IEEE 802.11 所定義的無線區域網路中，ESS 是由何者所擴充構成？ ①A SS ②BSS ③CSS ④DSS 。
+89. (3) Piconet 是何種技術所構成？ ①紅外線傳輸技術 ②微波傳輸技術 ③藍芽 技術 ④網際網路技術 。
+90. (2) 何者用來連接不同實體層的網路，且在實體層以上的各層所使用的協定 必須是相同網路？ ①Gateway ②Bridge ③Repeater ④Hub 。
+91. (3) 何者使用 TCP 來提供點對點的安全性服務？ ①SET ②SSL ③VPN ④PKI 。
+92. (1) Internet 服務的安全問題中，何者在傳送帳號及密碼時，並未對內容進行 加密編碼，使得傳輸內最容易被攔截而破解，是最具危險性傳輸方式？ ①TELNET ②HTTPS ③SSH ④SSL 。
+93. (4) 以 1200 bps 速率來傳送 8K 位元組的檔案(傳送一個位元組另需一個起始 位元與一個停止位元 )需時約為幾秒？ ①34 ②53.33 ③54.61 ④68.26 。
+94. (3) 某筆資料 2400 bytes，每個框(Frame)包含 8 個資料位元，1 個起始位元， 2 個停止位元，沒有同位位元之非同步串列方式傳輸，共需要 5 秒才能傳 完，則此串列傳輸速率(bps)為何？ ①1920 ②3840 ③5280 ④10560 。
+95. (2) 駭客以無用的連線流量壅塞網站並癱瘓網路，此舉稱之為何？ ①Sniffer ②DoS ③DNS ④Internet Error 。
+96. (4) 作業系統將正在執行 (Running)的處理單元回復到上一狀態 (如 Ready)，而 將資源讓給別的處理單元來使用的動作稱之為何？ ①Indefinite Postpon ement ②Commit ③Starvation ④Rollback 。
+97. (3) 何者最適合作業系統之短期排班法 (Short-Term Task Scheduling)？ ①Sh ortest-Job-First ②First-Come-Last-Served ③Round-Robin Scheduling ④ First-Come-First-Served 。
+98. (4) UNIX 所使用的檔案系統稱之為何？ ①i-Tree ②i-File ③i-System ④i-No de 。
+99. (2) 作業系統的記憶體管理中，若行程 (Process)花費在分頁上的時間比花費在 執行上的時間還多時，此種現象稱之為何？ ①Convoy Effect ②Thrashin g ③Busy State ④Swapping 。
+100. (4) 若程式使用一頁未被載入到記憶體的資料，作業系統會發生何種狀況？ ①Reference Error ②Memory Error ③Access Error ④Page Fault 。
+101. (3) 何種技術可以讓行程 (Process)在作業系統中同時執行多個任務？ ①Mult i-Disks ②Multi-Schedules ③Multi-Threads ④Multi-Memories 。
+102. (3) 作業系統中，何種排班演算法會決定系統的多元程式規劃的程度 (Degree of Multiprogramming) ？ ①Short-Term Scheduler ②Medium-Term Schedu ler ③Long-Term Scheduler ④Process Scheduler 。
+103. (3) 作業系統中，何者不是死結 (Dead Lock)產生的必要條件？ ①Mutual Exc lusion ②Hold and Wait ③No Priority ④Circular Wait 。
+104. (3) 作業系統中，臨界區間(Critical Section)的有效控制可以解決行程同步的 問題，而解決臨界區間的問題不需滿足何項要求？ ①Mutual Exclusion ②Progress ③Dead Lock Management ④Bounded Waiting 。
+105. (1) Linux 作業系統與微軟 Windows Server AD 的帳號資料庫，可用何種通訊 協定來整合？ ①LDAP ②HTTP ③IPX ④UDP 。
+106. (2) Linux 作業環境中，MRTG 流量監控程式是使用何種通訊協定？ ①HTTP ②SNMP ③SMTP ④POP3 。
+107. (3) Linux 作業環境中，何者可列出目錄之內容？ ①cat ②lists ③ls ④vi 。
+108. (2) Linux 作業環境中，何者可刪除執行中之程序或工作？ ①rm ②kill ③del ④cls 。
+109. (1) Linux 作業環境中，何者可列出目錄或檔案之大小？ ①du ②vi ③vol ④c pio 。
+110. (2) Linux 作業環境中，何者可列出整個系統的網路狀況？ ①neteconfig ②n etstat ③netstatus ④netconf 。
+111. (2) Linux 作業環境中，何者可建立一個新的目錄？ ①dir ②mkdir ③createdi r ④newdir 。
+112. (4) Linux 作業環境中，何者可建立開機磁片之內建指令？ ①diskboot ②ma keboot ③botdisk ④mkbootdisk 。
+113. (4) Linux 作業環境中，何者可記錄近期所有登入系統的使用者？ ①/var/log/ dmesg ②/var/log/message ③/var/log/syslog ④/var/log/secure 。
+114. (4) Linux 作業環境中，何者可顯示硬碟上的檔案名稱？ ①who ②whereis ③mount ④find 。
+115. (2) Linux 作業環境中，何者可顯示檔案的內容及權限？ ①dir/p/w ②ls -la | more ③pwd ④cd 。
+116. (4) Linux 作業環境中，何者為可啟動硬碟分割區之工具程式？ ①diskman ②rdisk ③fdisk ④sfdisk 。
+117. (3) Linux 作業環境中，何者可啟動線上指令說明？ ①more ②type ③man ④ Page 7 of 56 help 。
+118. (4) Linux 作業環境中，何者可設定時間？ ①timer ②setcmd ③cxecule ④at 。
+119. (1) Linux 作業環境中，何者可進行檔案壓縮？ ①tar ②pack ③queue ④zap 。
+120. (4) Linux 作業環境中，何者可進行檔案系統備份？ ①xfiles ②bu ③bacxup ④dump 。
+121. (1) Linux 作業環境中，何者可新增使用者帳號？ ①useradd ②newuser ③us ermanager ④xuser 。
+122. (4) Linux 作業環境中，何者可登入系統？ ①checkin ②logon ③logout ④log in 。
+123. (3) Linux 作業環境中，何者可變更檔案與目錄之權限？ ①authority ②dirs ③chmod ④rights 。
+124. (2) Linux 作業環境中，何者可顯示目前的工作目錄？ ①passdir ②pwd ③lis t ④passwd 。
+125. (3) Linux 作業環境中，何者可顯示或設定網路介面？ ①ipconfig ②winipcfg ③ifconfig ④netstat 。
+126. (2) Linux 作業環境中，何者可顯示開機過程中曾經顯示的系統訊息？ ①dis play ②dmesg ③message ④show 。
+127. (3) Linux 作業環境中，何者可將程式放到背景下來執行？ ①submit ②fg ③b g ④jobs 。
+128. (2) Linux 作業環境中，硬碟 ext4 檔案系統受損，何者可進行修護？ ①chkd sk ②e4fsck ③ext4fsck ④mount 。
+129. (2) Linux 的圖形介面通常稱之為何？ ①Windows ②X Window ③GUI ④MS Windows 。
+130. (2) Unix-like 作業環境中，何者可新增使用者群組？ ①useradd ②groupadd ③groups ④groupdel 。
+131. (1) Unix-like 作業環境中，何者可變更檔案名稱位置？ ①mv ②cp ③cpio ④ cat 。
+132. (4) Unix-like 作業環境中，何者可顯示檔案內容？ ①mv ②cp ③cpio ④cat 。
+133. (3) Unix-like 作業環境中，何者可改變檔案屬性 SUID 等之特性？ ①chgrp ②chown ③chmod ④check 。
+134. (3) Unix-like 作業環境中，何者可將記憶體中的資料同步寫入硬碟？ ①fsck ②newfs ③sync ④mknod 。
+135. (1) Unix-like 作業環境中，何者可顯示磁碟的內容及容量？ ①df ②ps ③ls ④ln 。
+136. (3) Unix-like 作業環境中，vi 文字編輯器具有一般模式與編輯模式，何者可 作為兩個模式之間的切換？ ①F1 ②Ctrl+F1 ③ESC ④Shift+Space 。
+137. (1) Unix-like 作業環境中，使用 vi 文字編輯器在一般模式下，何者可存檔後 離開？ ①wq! ②w ③q! ④w! 。
+138. (3) Unix-like 作業環境中，透過 telnet 指令去管理遠端的主機，再從遠端主 機 telnet 到別台主機，有時候次數一多，如果忘記目前的工作主機是那 一台，可以透過那一指令來做識別的工作？ ①hosts ②who ③ifconfig ④ whoami 。
+139. (2) Linux 作業環境中，何者是網頁伺服器軟體？ ①PHP ②Apache ③My SQ L ④HTTP 。
+140. (1) Linux 作業系統中，何者可顯示目前登入者之資訊？ ①who ②which ③w c ④login 。
+141. (4) Linux 作業環境中，安裝兩顆 SATA 硬碟時，第二顆硬碟裝置名稱為何？ ①/dev/hab ②/dev/hd2 ③/dev/hds ④/dev/sdb 。
+142. (2) 何者不是關聯式資料庫之特性？ ①不含重複的記錄 ②記錄之間是具有 順序的 ③屬性之間是沒有順序的 ④所有屬性值都是單元值 (Atomic Valu e) 。
+143. (2) 撰寫程式時，欲將某一記錄 (Record)由主程式傳入副程式，使用何種呼叫 方式將不會更動主程式中記錄的值？ ①Call by Name ②Call by Value ③Call by Reference ④Call by Address 。
+144. (4) 關於分散式資料庫系統之敘述何者錯誤？ ①可隨企業的成長而做漸進式 的擴充 ②具有較佳的可靠度 (Reliability)及妥善率(Availability) ③系統 複雜度提高 ④具有較佳的安全性與保密性 。
+145. (3) 何者不是資料管理軟體常用的安全機制？ ①Views ②Authorization Rule s ③On-Line Analytical Processing ④Authentication Schemes 。
+146. (3) 設計關聯式資料庫若欲避免相互依賴索引鍵，至少會要求正規化到何種 程度？ ①1NF ②2NF ③3NF ④4NF 。
+147. (3) 感測器(Sensor)在物聯網三層級中主要發揮那一項功能？ ①偵測通訊情 況，確保訊息傳遞無誤 ②偵測物聯網機房情況、確保系統正常工作 ③偵 測物體所處環境各項資訊，結合網路實現感知層 ④蒐集各項感測器電氣 特性，建構物理模型實現應用層 。
+148. (1) 物聯網的應用系統中，感測器網路由多個感測器散布於空間中組成，其 基礎概念為，由各別感測器模組將量測數據原始資料回傳到中央系統， 由中央系統運算分析後，取得空間中資訊後進行決策以進行控制，將資 料彙整成資料庫用於決策參考或用於觸發警報，典型範例即為 SCADA(S upervisory Control And Data Acquisition) ，此系統是用於那一項應用？ ①工廠自動化 ②家庭自動化 ③智慧交通系統 ④環境災害監控 。
+149. (2) 物聯網的應用系統中，感測器網路的智慧基礎，來自那一項特性？ ①感 測器精密結構改善，蒐集精確度更高的資料 ②分布感測器大量蒐集資 料，透過網路整合多項資訊 ③伺服器安裝防火牆系統，處理感測器資訊 ④雲端資料庫存有大量資料，經比對刪除不必要資訊 。
+150. (3) 物聯網的應用系統中，感測器網路對頻寬的主要要求是那一項？ ①支援 加密功能 ②支援多工運算 ③支援量測物理特性 ④支援感測器電氣規格 。
+151. (4) 物聯網要求感測器網路位址分配準則不含那一項？ ①位址在網路內必須 是唯一的 ②在物件離開網路後，位址必須是可重複使用的 ③位址分配必 須是動態的，而且位址分配必須公平分配 ④位址分配須具備集中化的概 念 。
+152. (3) 物聯網的應用系統中，感應式耦合(Inductive Coupling)在 RFID 系統的作 用為那一項？ ①提供數公里的讀取範圍 ②主動式標籤用此傳送資料 ③ 被動式標籤用此與讀取器溝通 ④提供數十公尺的讀取範圍 。
+153. (4) 物聯網的應用系統中，那一項是供應鏈追蹤？ ①包括追蹤製造過程中的 元件，但不包括組裝完成的物件 ②包括追蹤商店的推車與貨物架，幫助 自動付款、結帳，還有存貨管理 ③包括追蹤在農場或動物園的動物，並 引導到適當的位置 ④包括追蹤供應鏈的物品與倉儲管理，早期主要採用 RFID 元件來實現供應鏈追蹤 。
+154. (1) 物聯網的應用系統中，將貨物運送區域導入 RFID 系統，而有些需要貼標 籤的物品為金屬容器，那一項方法可以有最佳的讀取效果？ ①在金屬與 標籤中間置入一塊絕緣墊片 ②改變讀取器的工作頻率 ③增加標籤的功 率 ④增加讀取器的功率 。
+155. (3) 物聯網的應用系統中，負責與感測器網路節點連結功能的感測器硬體單 元為那一項？ ①感測單元 ②數據處理單元 ③數據收發單元 ④電源蒐集 單元 。
+156. (2) 物聯網的應用系統中，那一項不是感測器執行中，分配服務所具備的特 性？ ①透明性 ②抗干擾性 ③同步性 ④不可分割性 。
+157. (1) 物聯網的應用系統中，對於感測器網路的描述何者錯誤？ ①為實現物聯 網感知層的唯一技術 ②具有即時資訊處理及多點感知之網路架構 ③可 以感知溫度、濕度、風速及太陽輻射流量等數據 ④硬體一般都由數據採 集、數據處理、數據收發和電源等四個單元所組成 。
+158. (4) EPCglobal Network Architecture 可稱為物聯網架構，其發展的技術標準 不包括那一項？ ①RFID 硬體及通訊標準 ②資訊分享及查找方式 ③EPC 編碼及轉換 ④TCP/IP 分配原則 。
+159. (1) 物聯網的應用系統中，在 EPC Network 裡，倘若 ABC 冰塊公司其產品在 全臺灣各大便利商店鋪貨，當被查驗所賣的冰塊含過量大腸桿菌時，必 須回收產品並下架，這時 ABC 冰塊可利用那一項資料查詢進行產品追 溯？ ①DS(Discovery Services) ②ONS(Object Name Service) ③EPC IS(I nformation Service) ④IIS(Internet Information Services) 。
+160. (1) 關於巨量資料(Big Data)運用之敘述何者錯誤？ ①巨量資料運用已發展 一套一體適用的 SOP(標準作業程序)通則，只要跟進就一定會成功 ②近 年來巨量資料運用快速發展的原因取決於資料量急速成長、儲存設備成 本下降、軟體技術進化和雲端環境成熟等種種客觀條件 ③巨量資料運用 讓資料分析從過去的洞悉歷史進化到預測未來，甚至是破舊立新，開創 從所未見的商業模式 ④隨著物聯網的興起，物聯網的資料將是巨量資料 運用的對象之一 。
+161. (4) 關於巨量資料之敘述何者錯誤？ ①巨量資料之英文為 Big data 或 Megad ata，也稱為巨量資料、海量資料、大 數據 ②巨量資料運用指的是所涉及 的資料量規模巨大到無法透過人工，在合理時間內達到擷取、管理、處 理、並整理成為人類所能解讀的形式的資訊 ③巨量資料運用在總資料量 相同的情況下，與個別分析獨立的小型資料集 (Data set)相比，將各個小 型資料集合併後進行分析可得出許多額外的資訊和資料關聯性，可用來 察覺商業趨勢、判定研究品質、避免疾病擴散、打擊犯罪或測定即時交 通路況等 ④隨著物聯網的興起，物聯網的資料並非巨量資料運用可適用 的對象 。
+162. (4) 何者不是巨量資料分析的核心資訊知識？ ①巨量資料視覺化分析技術 ②機器學習 ③雲端資料探勘 ④電腦網路架設 。
+163. (4) 關於巨量資料運用之敘述何者錯誤？ ①巨量資料又被稱為大數據(Big D ata)，其概念其實就是過去 10 年廣泛用於企業內部的資料分析、商業智 慧(Business Intelligence) 和統計應用之大成 ②巨量資料運用的資料特質 和傳統資料最大的不同是，資料來源多元、種類繁多，大多是非結構化 資料，而且更新速度非常快，導致資料量大增 ③要用巨量資料創造價值， 不得不注意數據的真實性 ④獲利不佳的企業利用巨量資料的運用，全部 都可以馬上起死回生 。
+164. (4) 何者不是電腦 AlphaGo 可以戰勝南韓棋王的原因？ ①巨量資料的運用 ②機器學習的運用 ③人工智慧的運用 ④網頁設計的運用 。
+165. (3) 關於巨量資料作用之敘述何者錯誤？ ①對巨量資料的處理分析正成為新 一代資訊技術融合應用的結點 ②巨量資料是信息產業持續高速增長的新 引擎 ③巨量資料的利用不可能成為提高核心競爭力的關鍵因素 ④因應 巨量資料時代的來臨，科學研究的方法將發生重大改變 。
+166. (3) 巨量資料運用的處理包括：「採集」、「導入 /預處理」、「統計與分析」 及「資料探勘」等，何者錯誤？ ①巨量資料的採集是指利用多個資料庫 來接收發自客戶端(Web、App 或者感測器形式等)的數據，並且用戶可以 透過這些資料庫來進行簡單的查詢和處理工作 ②雖然採集端本身會有很 多資料庫，但是如果要對這些巨量資料進行有效的分析，還是應該將這 些來自前端的數據導入到一個集中的大型分散式資料庫，或者分散式儲 存叢集(Cluster)，並且可以在導入基礎上做一些簡單的篩選和預處理工作 ③統計與分析主要利用集中式資料庫，或者集中式計算叢集(Cluster)來 對儲存於其內的巨量資料進行普通的分析和分類彙總等，以滿足大多數 常見的分析需求 ④資料探勘一般沒有什麼預先設定好的主題，主要是在 現有數據上面進行基於各種演算法的計算，從而起到預測 (Predict)的效 果，從而實現一些高級別數據分析的需求 。
+167. (4) 何種工具最不適合處理巨量資料？ ①Apache Hadoop ②Apache Spark ③ NoSQL ④dBase IV 。
+168. (1) 何者是從巨量資料中提取出未知的、有價值的潛在資訊？ ①資料探勘 ②資料蒐集 ③資料撰寫 ④資料結構 。
+169. (4) 各種 NoSQL 資料庫的資料模型不包含何者？ ①鍵值資料庫(Key-values Stores) ②欄位群資料庫(Column Family Stores) ③文件資料庫(Document Databases) ④關聯式資料庫(Relational Database) 。
+170. (2) 無法在一定時間內用常規軟體工具對其內容進行抓取、管理和處理的數 據集合稱為什麼？ ①巨集 ②巨量資料 ③資料結構 ④資料表 。
+171. (134) 對於資料庫正規化（ Normalization）的敘述，何者正確？ ①正規化的程 度越高，資料的重複性會降低 ②正規化的程度越高，資料存取效能亦會 越高 ③正規化的程度越高，資料表格的數量亦會增多 ④正規化程序可避 免更新異常 。
+172. (1234) 對於 Web-based 資料庫應用系統的效能，影響因素有那些？ ①網路頻寬 ②同時上線的使用者數量 ③資料庫的設計 ④資料庫伺服器硬體等級 。
+173. (34) 如要確保關聯式資料庫的參考完整性（ Referential Integrity ），需使用到 那些鍵（Key）？ ①Candidate Key ②Secondary Key ③Primary Key ④F oreign Key 。
+174. (12) 那些資料庫技術可以增進資料表查詢的效率？ ①Index ②Stored Procedure ③Backup ④View 。
+175. (124) 關於外鍵（Foreign Key）特性的描述，何者正確？ ①外鍵一定參考其它 關聯表的主鍵 ②外鍵在關聯表內不一定是主鍵 ③外鍵和參考的主鍵屬 於相同定義域，且屬性名稱一定相同 ④外鍵可以是空值（NULL） 。
+176. (1234) 對於視界（View）的敘述，何者正確？ ①可被視為 External Schema ② 其內部資料是動態產生的 ③可隱藏複雜的查詢語法 ④可限制使用者的 存取權限 。
+177. (1234) 何者是選擇資料庫管理系統（DBMS）時應考慮的事項？ ①可應用的預 算金額 ②有那些廠牌的軟體或替代品 ③公司的需求與軟體提供的功能 是否符合 ④與現有資訊系統的整合 。
+178. (123) 有關分散式資料庫系統的描述，何者正確？ ①資料可以依資料的性質與 資料的種類而分散到不同的地方，如總公司、分公司，這樣可以減少資 料的傳輸處理的時間與風險 ②允許資料共享（Data sharing）並保有各自 的控制性，能互通共享資料庫內的資料，執行不同的需求 ③改善效能（P erformance ），各資料處理中心可同時處理不同的資料庫的資料 ④各資 料庫間的管理系統必須是相同版本的資料庫管理系統 。
+179. (234) DBMS 是資料庫系統的核心，為了滿足多種需求，一般 DBMS 會提供多 種基本功能，何者較為常見？ ①資料壓縮（Compact Data ） ②建立各類 物件的 DDL 語法 ③定義綱要（Schema） ④資料查詢（Query）或異動（新 增、刪除、修改） 。
+180. (123) 為增加資料庫執行效能，何者正確？ ①選定並建立合適的索引（Index） ②適度調整資料庫的綱目（ Schema） ③建議並改寫壞的 SQL 指令（Ba d SQL） ④將資料庫主機的記憶體加到最大 。
+181. (124) 資料庫應用系統開發過程中，何者屬於資料庫系統需求定義階段所需完 成的工作項目？ ①確定作業範圍 ②查訪現況與課題分析 ③設計 SQL 查 Page 12 of 56 詢句 ④定義資料庫的資料與功能需求 。
+182. (123) 資料庫應用系統開發的過程中，何者屬於可行性分析階段所需考慮的項 目？ ①市場上可以提供技術支援的廠商 ②確定整個專案的成本 ③確定 作業範圍 ④定義資料庫的資料表與功能需求 。
+183. (13) 對於關聯正規化（Normalize）的敘述，何者正確？ ①正規化的目的之一 是消除「更新時的異常現象（Update Anomalies ）」 ②為了符合「正規 化型式」的條件，會將關聯切割成數個失真（ Lossy）的關聯 ③越嚴格的 「正規化型式」，查詢時便要花越多的時間來做合併（ Join） ④正規化 的步驟：是將關聯從滿足第 n+1 正規化型式 Normalize 成第 n 正規化型 式，反覆執行，直到所有異常現象消失為止 。
+184. (124) 何者是關聯式資料庫的特點？ ①在邏輯上，資料是以表格方式呈現，實 際儲存在磁碟上時卻可能是以循序檔案，磁碟索引結構 ②以二維的資料 表（Table）概念為基礎來模型化資料彼此間的關聯 ③表格中的 Field Va lue 可以是一個集合 ④在資料庫管理系統看到的資料除了資料值本身 外，還包含描述資料的定義，稱為綱要（ Schema） 。
+185. (124) 關於以 SOAP 為基礎所建構的 Web 服務，何者正確？ ①SOAP 因為使用 HTTP 通訊協定，在使用時要考慮安全性的問題 ②SOAP 是一個與平台無 關的協定 ③SOAP 支援特定幾種程式語言 (ASP、PHP、Java)，不算是語 言獨立的協定 ④SOAP 也算是一種 Remote Procedure Call(RPC) 的實作 。
+186. (1234) 良好的 XML 文件(well-formed XML document) 的敘述，何者正確？ ①文 件需包含一個或多個元素(element) ②根元素不出現在其他任何元素的內 容(content)中 ③非根元素若起始標籤在另一個元素內容中，則結束標籤 亦要在該元素內容中 ④被包含的元素稱為子元素，包住子元素的元素稱 為父元素 。
+187. (12) 為了解決 HTTP 通訊協定無法保留狀態(stateless)的特質，那些方法可以 協助進行狀態的保留 (state)與管理(management)？ ①cookie ②session ③ TCP ④encoding 。
+188. (24) 關於表單中之隱藏控制項(hidden)的敘述，何者正確？ ①傳遞時會以 DE S 加密，以達到資訊隱藏的目的 ②其控制項不會以視覺的方式出現於螢 幕上 ③專門用來傳輸密碼 ④程式設計者可以自由的用來傳遞網頁與網 頁間的狀態 。
+189. (234) 色彩配色有分加色及減色混合，色料的三原色為那些？ ①藍 ②洋紅 ③ 黃 ④青 。
+190. (134) 那些屬於色彩三屬性？ ①色相 ②對比 ③明度 ④彩度 。
+191. (123) 那些色彩具有彩度？ ①紅色 ②綠色 ③藍色 ④黑色 。
+192. (123) 有關 GIF 格式的圖檔那些敘述正確？ ①可呈現黑白色圖檔 ②可呈現 16 色圖檔 ③可呈現 256 色圖檔 ④可呈現全彩色圖檔 。
+193. (234) 設計美學中，設計構成要素個別存在時，那些具有伸長的特性？ ①點 ②線 ③面 ④體 。
+194. (123) 設計美學中，何者的外型具對稱性構圖？ ①飛機 ②蝴蝶 ③老鷹 ④雲 。
+195. (124) 設計美學中，何者的外型具放射性構圖？ ①菊花 ②輪胎 ③黃色小鴨 ④ 玫瑰花 。
+196. (124) 設計美學中，何者屬於基礎造形考量的基本要素？ ①形態 ②機能 ③利 益 ④美感 。
+197. (134) 何種影像儲存格式包含透明度？ ①GIF ②JPEG ③TIFF ④PNG 。
+198. (123) 有關網頁文件 DOM 模型的敘述，那些正確？ ①是 Document Object Mo del 的簡稱 ②一個具有結構化的網頁文件內容可以用 DOM 樹來表示 ③使 用程式可以存取 DOM 樹的節點內容 ④DOM 樹的節點內容能修改，但不 能修改其樹的節點結構 。
+199. (23) 關於 HTML DOM 模型之敘述那些正確？ ①屬於網頁設計進階技術，只 有少部分瀏覽器有支援 ②可動態更改網頁的內容 ③運用 JavaScript 不但 能修改 HTML DOM 樹的節點內容，也能修改其樹的節點結構 ④支援 HT ML 文件的元素，但元素間無繼承關係 。
+200. (124) HTML DOM 模型介面包含那些元素物件 (Element Object)？ ①HTMLFor mElement ②HTMLTableElement ③HTMLRowElement ④HTMLIFrameEl ement 。
+201. (123) HTML Tag 對應到 HTML DOM 模型元素的關係，那些正確？ ①H2 對應 到 HTMLHeadingElement ②IMG 對應到 HTMLImageElement ③TD 對應 到 HTMLTableCellElement ④IFRAME 對應到 HTMLFrameElement 。
+202. (124) 在 HTML DOM 模型中的 HTMLBodyElement 物件，其屬性(properties) 的說明那些正確？ ①link 的屬性為指定預設未拜訪過連結的顏色 ②aLin k 屬性為指定正在觸發動作中的連結顏色 ③textColor 的屬性為指定文件 中文字的顏色 ④vLink 屬性為指定已拜訪過連結的顏色 。
+203. (124) 在 HTML DOM 模型中的 HTMLSelectElement 物件，關於其屬性(propert ies)的說明那些正確？ ①length 屬性是下拉式選項中的個數 ②multiple 屬性是指定是否可多選 ③size 屬性是指在多選時，下拉式選項中被選上 的數量 ④selectedIndex 屬性是指下拉式選項中被選上的編號 。
+204. (24) 無障礙網頁版面設計原則何者正確？ ①多使用圖像、圖表、動畫等視覺 內容 ②闡明自然語言的使用 ③不需建立編排良好的表格 ④確保網頁能 在新科技下良好地呈現 。
+205. (1234) 何者是無障礙網頁開發規範之設計原則？ ①設計裝置獨立網頁 ②提供 清楚的瀏覽網站機制 ③確保簡單清楚的網頁內容 ④對於聽覺及視覺的 內容要提供相等的替代文字內容 。
+206. (124) 何者不是無障礙網頁設計原則？ ①不需具有清楚和一致的瀏覽機制 ② 不使用過渡的解決方案 ③使用國際與國內官方訂定的技術和規範 ④不 提供內容導引資訊 。
+207. (234) 何者是無障礙網頁設計原則？ ①不提供內容導引資訊 ②不要單獨靠色 彩來提供特殊資訊 ③確保簡單清楚的網頁內容 ④設計裝置獨立網頁 。
+208. (1234) 何者屬於 ISO 的 OSI 模型中網路七層架構？ ①實體層 Physical Layer ② 資料連接層 Data-Link Layer ③網路層 Network Layer ④傳送層 Transpor t Layer 。
+209. (123) 何者屬於 TCP/IP 的網路架構？ ①網路存取層 Network Access Layer ② 網際層 Internet Layer ③應用層 Application Layer ④實體層 Physical Lay er 。
+210. (123) 何者是 OSI 模型中網路實體層 Physical Layer 所定義的網路標準？ ①網 路線 ②各種無線連線方式 ③各種設備規範 ④應用程式之對談 。
+211. (14) 何者是 OSI 模型中網路實體層 Physical Layer 所定義的網路標準？ ①傳 輸訊號的電壓 ②檔案的讀取 ③檔案的複製 ④各種接頭的規格 。
+212. (12) 何者是 OSI 模型中傳送層 Transport Layer 所定義的網路標準？ ①技術的 封包格式 ②資料封包的傳送 ③檔案的讀取 ④各種無線連線方式 。
+213. (12) 何者是 OSI 模型中傳送層 Transport Layer 所定義的網路標準？ ①流程的 控制 ②傳輸過程的偵測檢查 ③檔案的開啟 ④檔案的關閉 。
+214. (12) 何者是 OSI 模型中表現層 Presentation Layer 所定義的網路標準？ ①網路 服務(或程式)之間資料格式的轉換 ②資料的加解密 ③檔案的開啟 ④檔 案的關閉 。
+215. (12) 何者是 OSI 模型中表現層 Presentation Layer 所定義的網路標準？ ①電腦 之間的連線建立 ②電腦之間的連線終止 ③電腦之間的連線維持 ④確定 網路服務建立連線的確認 。
+216. (134) 那些是網頁檔之副檔名？ ①.htm ②.xml ③.aspx ④.jsp 。
+217. (1234) 那些技術用於輔助製作動態網頁？ ①ASP ②PHP ③CGI ④JSP 。
+218. (13) 關於 HTML 網頁檔案的敘述何者正確？ ①副檔名可為.htm 或.html ②須 使用專用軟體來編輯，無法使用記事本編輯 ③內容為一連串標籤(Tag) 的組合 ④網頁檔案須先放在網站伺服器(Web Server)上才能檢視它的內 容 。
+219. (123) 機關首頁之搜尋功能設計，那些是正確之概念？ ①顯而易見 ②易於操作 ③欄位夠寬 ④搜尋功能的預設範圍應含蓋整個全球網際網站 。
+220. (124) 關於網頁之圖像與動畫使用，那些是正確之概念？ ①可採用圖像來加強 內說明 ②將 Logo 置於顯著位置 ③強制瀏覽者觀看動畫 ④避免過度使用 浮水印式的圖像 。
+221. (12) JavaScript 之敘述那些正確？ ①不允許讀取硬碟中的資料，故程式安全 性高 ②多數瀏覽器皆支援 JavaScript，故符合跨平台的支援 ③程式編譯 後與 HTML 程式緊密結合 ④各種特效皆須經伺服器來操作，故反應迅速 且直接 。
+222. (124) 對於 JSP(Java Server Page)之敘述那些較適當？ ①以 Servlet 技術為基 礎，所開發的範本系統 ②屬於 Java 2 Enterprise Edition (J2EE) 的一部分 ③每次執行 JSP 網頁時，該 JSP Container 均把 JSP 網頁轉譯為 Servlet 再加以執行 ④以 Java 技術為主所開發的動態網頁 。
+223. (14) 在 Windows 作業環境下，一般軟體安裝程式都使用什麼名稱？ ①setup ②uninstall ③system ④install 。
+224. (124) 何類的作業系統不適合在 UEFI 環境下來安裝？ ①DOS ②Windows XP ③Windows 8 ④Fedora core 8 。
+225. (123) 何者為使用資料庫的優點？ ①減少資料的重複性 ②強化資料的保密性 及安全性 ③減少儲存資料的空間 ④不需專人管理及維護資料庫 。
+226. (134) 何者為資料庫中實體 -關係的主要構成元素？ ①實體 ②模型 ③屬性 ④關 係 。
+227. (124) 何者是資料庫主鍵的特性？ ①欄位中的每一個值都具有唯一性 ②在意 義上要有代表性 ③一個主鍵最多包含 20 個欄位 ④具有一般索引的功能 。
+228. (234) 關於資料傳輸之敘述何者不正確？ ①資料傳輸速率可用鮑率(Baud rate) 來衡量 ②鮑率為 1 表示每秒傳送 1Byte ③T1 的傳輸速度為每秒 65KB ④非同步傳輸教同步傳輸適合用於傳送大量連續資料 。
+229. (134) 何種協定無支援壓縮功能？ ①SLIP ②PPP ③PPTP ④PNP 。
+230. (123) 關於網路主幹傳輸媒體 Trunk Carrier 傳輸速率之敘述何者正確？ ①T1 為 1.544 Mbps ②T2 為 6.312 Mbps ③T3 為 44.736Mbps ④T4 為 89.472 Mbps 。
+231. (134) 關於網路主幹傳輸媒體 Trunk Carrier 傳輸通道數量之敘述何者正確？ ①T1 為 24 ②T2 為 48 ③T3 為 672 ④T4 為 4032 。
+232. (123) 關於網路主幹傳輸媒體 European Carrier 傳輸速率之敘述何者正確？ ①E 1 為 2.048Mbps ②E2 為 8.448Mbps ③E3 為 34.368Mbps ④E4 為 565.148 Mbps 。
+233. (134) 關於網路主幹傳輸媒體 European Carrier 傳輸通道數量之敘述何者正 確？ ①E1 為 32 ②E2 為 64 ③E3 為 512 ④E5 為 8192 。
+234. (234) 關於同步光纖網路傳輸媒體 Synchronous Optical Network 傳輸速率之敘 述何者正確？ ①OC-12 為 933.12Mbps ②OC-24 為 1244.16Mbps ③OC-3 6 為 1866.24Mbps ④OC-48 為 2488.32Mbps 。
+235. (123) 何者為 ATM(Asynchronous Transfer Mode) 網路之特性？ ①每個連線擁 有專屬頻寬 ②提供多樣化的傳輸速率 ③省略錯誤檢查和流量控制之工 作 ④封包長度非常有彈性 。
+236. (123) 何者為 ATM(Asynchronous Transfer Mode) 網路所提供的傳輸速率？ ①1 55 Mbps ②622 Mbps ③2.4 Gbps ④4.3 Gbps 。
+237. (123) 何者為 OSI 網路七層通訊協定(Communication Protocol) 第二層所提供之 功能？ ①資料包裝與拆裝 (Encapsulation/ Decapsulation) ②資料分段與 組合(Segmentation/Reassembly) ③資料流量控制(Flow Control) ④資料 繞送(Routing) 。
+238. (124) 關於網路傳輸協定之敘述何者正確？ ①TCP 是可靠性(Reliable)傳輸協定 ②UDP 是非可靠性(Unreliable)傳輸協定 ③IP 是可靠性(Reliable)傳輸協 Page 16 of 56 定 ④ATM 是連線導向(Connection-Oriented)傳輸協定 。
+239. (124) 關於群播(Multicast)之敘述何者正確？ ①群播適用於視訊會議 (Video Co nference)系統 ②屬於同一群體的所有成員 (Members)都使用同一個群播 網路地址(Multicast IP) ③某一使用者加入(Join)或離開(Leave)某一群體 (Group)時，必須先徵求伺服器 (Server)的同意，才可以加入或離開 ④群 播是將資料同時間一次送給一群(Group)的使用者 。
+240. (24) 關於通訊協定之敘述何者正確？ ①TCP/IP 係由美國國防部所研發，共分 為實體層、資料連結層、網路層、傳輸層及應用層等五層 ②NetBIOS 是 由 IBM 公司所發展的 PC 網路協定 ③IPX/SPX 是由 Novell 公司為 PC 商 用網路所設計發展的 Novell NetWare ，是目前最被普遍使用的區域網路 軟體 ④Apple Talk 是由 Apple 公司為了 Mac 所設計發展出的第一套「即 插即用」的網路架構 。
+241. (124) 何者為死結(Deadlock)發生的必要條件？ ①Mutual Exclusion Condition ②Wait for Condition ③Preemption Condition ④Circular Wait Condition 。
+242. (124) Linux 作業環境中，何者可提供文字之編輯？ ①vi ②vim ③edit ④joe 。
+243. (123) Linux 作業環境中，何者可作為關機之指令？ ①halt ②poweroff ③shutd own ④init 3 。
+244. (134) 何者是 Linux 發行的版本(Distribution)？ ①Fedora ②SUSI ③Ubuntu ④D ebian 。
+1. (1) 關聯式資料庫進行「第二正規化型式」 (Second Normal Form, 2NF) 可以 消除何種現象？ ①非候選鍵(Non-Candidate Key) 的屬性，僅讓函數相依 (Functional Dependent) 於主鍵(Primary Key)的一部分 ②非候選鍵的屬 性，函數相依於別的非候選鍵屬性 ③複合候選鍵的部分屬性，僅讓函數 相依於另一個候選鍵的一部分 ④屬性值不是單一值(Atomic) 。
+2. (1) SQL 語法『SELECT COUNT(*) FROM Books 』之意義為何？ ①資料表 B ooks 的記錄筆數 ②資料表 Books 的欄位數 ③資料表 Books 的資料平均 值 ④資料表 Books 的資料總和 。
+3. (2) 欲對資料庫刪除資料表 Books，其 SQL 語法為何？ ①REMOVE TABLE Books ②DROP TABLE Books ③DELETE TABLE Books ④ALTER TAB LE Books 。
+4. (2) SQL 語法包含：(A)SELECT、(B)GROUP BY、(C)WHERE、(D)HAVING、 (E)ORDER BY、(F)FROM 等子句之正確順序為何？ ①AFCEBD ②AFC BDE ③AFDEBC ④AFECBD 。
+5. (3) 欲對資料庫刪除資料表 Books 中所有資料列，其 SQL 語法為何？ ①RE Page 17 of 56 MOVE FROM Books ②DROP FROM Books ③DELETE FROM Books ④A LTER FROM Books 。
+6. (4) SQL 語法 UPDATE 之正確寫法為何？ ①UPDATE bookname FROM Boo ks WHERE id = 2 SET bookname =' 哈利波特' ②UPDATE FROM Books WHERE id = 2 SET bookname = ' 哈利波特' ③UPDATE Books WHERE i d = 2 SET bookname = ' 哈利波特' ④UPDATE Books SET bookname = ' 哈利波特' WHERE id = 2 。
+7. (3) 欲使用 SQL 語法『INSERT INTO TABLE Emp(Emp_no) VALUES (NUL L)』將資料插入資料表 Emp 時發生錯誤，何者不是發生錯誤的原因？ ①Emp_no 欄位是主要鍵值(Primary Key) 或主要鍵值之一 ②Emp_no 是 N OT NULL 欄位 ③Emp_no 是 DEFAULT 欄位 ④資料表 Emp 裡面無 Emp _no 欄位 。
+8. (3) 某企業(Emp)有數十個部門(Dept_name)，每個部門有數百人，吳總經理 欲知道：「除了部門主管(Is_dept_manager) 之外，平均薪資(Salary)在 50, 000 元(含)以上的部門有那些？」，最能符合上述要求之 SQL 語法為何？ ①SELECT Dept_name, AVG(Salary) FROM Emp WHERE Is_dept_mana ger=TRUE AND SUM (Salary)>=50000 GROUP BY Dept_name ②SELEC T Dept_name, AVG(S alary) FROM Emp WHERE Is_dept_manager=TRUE GROUP BY Dept_name HAVING AVG(Salary)>=50000 ③SELECT Dept_ name, AVG(Salary) FROM Emp WHERE Is_dept_manager=FALSE GROU P BY Dept_name HAVING AVG(Salary)>=50000 ④SELECT Dept_name, AVG(Salary) FROM EMP WHERE Is_dept_m anager=FALSE AND AVG(S alary)>=50000 。
+9. (1) 資料表 Emp 之欄位屬性定義：Empid INTEGER、Name CHAR(20)、Dep tno INTEGER、Sal INTEGER；欲表列「部門代號 20 及 50 的員工平均薪 資(Sal)在 22,000 元(含)以上」之部門代號(Deptno)，最能符合要求之 SQ L 語法為何？ ①SELECT Deptno, AVG(Sal) FROM Emp WHERE Deptno IN (20,50) GROUP BY Deptno HAVING AVG(Sal)>=22000 ②SELECT D eptno, AVG(Sal) FROM Emp GROUP BY Deptno HAVING AVG(Sal)>=2 2000 AND Deptno IN (20,50) ③SELECT Deptno, AVG(Sal) FROM Emp WHERE Deptno IN (20,50) AND AVG(Sal)>=22000 GROUP BY Deptno ④SELECT Deptno, AVG(Sal) FROM Emp WHE RE Deptno IN (20,50) GR OUP BY AVG(Sal) HAVING AVG(Sal)>=22000 。
+10. (3) 資料表 Staff 之欄位屬性定義：Id INTEGER、Name CHAR(20) 、Dept IN TEGER、Job CHAR(20) 、Years INTEGER 、 Salary DECIMAL(10, 2)、C omm DECIMAL(10,2) ；欲表列「至少有一個員工的酬金 (Comm)在 5,000 元以上」之部門編號及員工總數，最能符合要求之 SQL 語法為何？ ①S ELECT Dept, COUNT(*) FROM Staff GROUP BY Dept HAVING Comm> 5000 ②SELECT Dept, COUNT(*) FROM Staff WHERE Comm>5000 GRO UP BY Dept, Comm ③SELECT Dept, COUNT(*) FROM Staff GROUP B Y Dept HAVING MAX(Comm)>5000 ④SELECT Dept, Comm, COUNT(id) Page 18 of 56 FROM Staff WHERE C omm>5000 GROUP BY Dept, Comm 。
+11. (3) 可以免費使用的資料庫管理系統為何？ ①Microsoft Access ②SQL Serve r ③MySQL ④DB2 。
+12. (4) 有關 MySQL 的敘述何者錯誤？ ①可以在許多平台上執行，包括 Linux 及 Windows ②簡單易學、彈性大、執行速度快是 MySQL 的優點 ③使用 者可以隨時檢查 MySQL 原始檔及修正錯誤 ④MySQL 只能在預設的 DOS 模式下使用 。
+13. (4) 不能執行 MySQL 的作業平台為何？ ①Windows ②Unix ③Linux ④Goog le 。
+14. (3) MySQL 預設最高管理者(Super User)帳號為何？ ①localhost ②Administr ator ③root ④空白 。
+15. (1) MySQL 語法「SELECT GREATEST(34.0, 3.0, 5.0, 767.0); 」，其執行結 果為何？ ①767.0 ②34.0 ③5.0 ④3.0 。
+16. (1) MySQL 語法「SELECT ISNULL(1+1);」，其執行結果為何？ ①0 ②1 ③ 2 ④3 。
+17. (4) 若 MySQL 要啟動遞增備份(Incremental Backup)，需在主程式執行時加上 -log-bin 選項，並啟動何種功能方可執行遞增備份？ ①Program logging ②Database logging ③Text logging ④Binary logging 。
+18. (2) MySQL 語法「SELECT * INTO inst_X ‘file_A’ FROM table_B;」可將 table_B 備份到 file_A，則語法中「inst_X」為何？ ①INFILE ②OUTFIL E ③REPLACE ④IGNORE 。
+19. (1) MySQL 語法「LOAD DATA inst_X1 ‘file_A’ inst_X2 INTO TABLE t able_B;」可從 file_A 回復 table_B 且覆蓋重複的部分，則語法中「inst_ X1」及「inst_X2」分別為何？ ①INFILE、REPLACE ②INFILE、IGNO RE ③OUTFILE、REPLACE ④OUTFILE、IGNORE 。
+20. (3) MySQL 語法中某些字串中的字元 (如：單引號、雙引號)有特殊含意，需 另加跳脫符號來表示，則 MySQL 的跳脫符號為何？ ①_ ②/ ③ ④| 。
+21. (4) MySQL 語法「SELECT COALESCE(NULL, 3, NULL, 1); 」，其執行結果 為何？ ①NULL ②1 ③2 ④3 。
+22. (2) 在 Windows 作業環境中，MySQL 預設的組態檔為何？ ①my.cnf ②my.i ni ③config.inc ④web.config 。
+23. (1) 在 Unix 作業環境中，MySQL 預設的組態檔為何？ ①my.cnf ②my.ini ③ config.inc ④web.config 。
+24. (3) 若要指定 MySQL 組態檔的路徑及檔名，其參數為何？ ①config-file ②s etting-file ③defaults -file ④install-file 。
+25. (4) 若要設定 MySQL 的埠號，其參數為何？ ①basedir ②datadir ③default-c haracter-set ④port 。
+26. (1) 若要設定 MySQL 的主目錄，其參數為何？ ①basedir ②maindir ③defaul tdir ④rootdir 。
+27. (4) MySQL 語法中要刪除檢視表，其指令為何？ ①ERASE VIEW ②DELET E VIEW ③CANCEL VIEW ④DROP VIEW 。
+28. (2) MySQL 6 預設的儲存引擎為何？ ①MyISAM ②InnoDB ③Memory ④Me rge 。
+29. (2) 建立 MySQL 資料表的語法「CREATE TABLE t (i INT) para_X=MYISA M;」用以指定儲存引擎，則語法中「para_X」為何？ ①STORAGE ②EN GINE ③ORDER ④WHERE 。
+30. (2) 常被用於交易處理(Transaction Processing) ，並支援 ACID 交易特性及外 部索引鍵的 MySQL 儲存引擎為何？ ①MyISAM ②InnoDB ③Memory ④ Merge 。
+31. (1) MySQL 語法中，支援資料新增、刪除、修改及查詢功能的語言為何？ ①DML ②DCL ③DSL ④DDL 。
+32. (3) 結構化查詢語言(Structure Query Language) 共區分為三大類，不包括那一 類？ ①DML ②DCL ③DSL ④DDL 。
+33. (4) 有關 PHP 的敘述何者有誤？ ①提供伺服器端(Server-Side)描述方式的操 作模式 ②提供命令列的操作模式，故可在作業系統下直接執行 ③提供使 用者端的應用程式，故可設計 GUI 的應用程式 ④提供操作模式屬於輸入 模式 。
+34. (2) 有關 PHP 的敘述何者有誤？ ①在 Apache、MS IIS 等 Web 伺服器執行的 Script ②只能在 Linux 或 Unix 作業系統上執行，無法於 Windows 或 Ma c OS 上執行 ③支援動態資料庫網頁 ④具有免費、穩定、快速、跨平台、 物件導向等優點 。
+35. (3) PHP 網頁中要顯示字串「Hello, world!」，何者有誤？ ① ③ ④ 。
+36. (3) 何者不是 PHP 的保留字？ ①const ②for ③my ④break 。
+37. (2) phpMyAdmin 的功用為何？ ①資料庫系統 ②MySQL 資料庫的管理軟體 ③用來撰寫 PHP 程式的軟體 ④管理 PHP 權限的軟體 。
+38. (4) 在 Windows 系統中點選「開始功能表 ->程式集->Appserv->Control Serve r By Service->Apache Restart 」時，其意義為何？ ①停止 Apache Server ②啟動 Apache Server ③暫停 Apache Server ④重新啟動 Apache Server 。
+39. (2) 在 Windows 系統中點選「開始功能表 ->程式集->Appserv->Control Serve r By Service->Apache Start 」時，其意義為何？ ①停止 Apache Server ②啟動 Apache Server ③暫停 Apache Server ④重新啟動 Apache Server 。
+40. (3) PHP 對兩個布林運算式進行 OR 運算，其運算子為何？ ①&& ②! ③∥ ④^ 。
+41. (1) PHP 運算子中，優先順序最高為何？ ①++ ②&& ③>> ④+ 。
+42. (1) 何者非 PHP 迴圈控制指令？ ①loop ②while ③do while ④for 。
+43. (4) 建立 PHP 函數的關鍵字為何？ ①func ②sub ③define ④function 。
+44. (1) PHP 中直接輸出一個圖檔到網頁，其所傳送的 Header 何者正確？ ① Page 20 of 56 ② ② 。
+45. (4) 用來製作縮圖的 PHP 影像處理函式為何？ ①imagefill() ②imagecreatefr ompng() ③imagecharup() ④imagecopyresized() 。
+46. (1) 避免 MySQL 查詢時出現中文字亂碼問題，所使用的 PHP 指令為何？ ① ② ③ ④ 。
+47. (2) MySQL 發生錯誤時，取回錯誤代碼的 PHP 函數為何？ ①mysql_error() ②mysql_errno () ③mysql_get_error() ④mysql_report() 。
+48. (2) 取得資料表記錄數的 PHP 函數為何？ ①mysql_fetch_rows() ②mysql_nu m_rows() ③mysql_fetch_fields() ④mysql_num_fields() 。
+49. (4) 移動索引指標工作的 PHP 函數為何？ ①mysql_query() ②mysql_result() ③mysql_fetch_row() ④mysql_data_seek() 。
+50. (2) 關閉資料庫連結的 PHP 函數為何？ ①mysql_connect() ②mysql_close() ③mysql_query() ④mysql_select_db() 。
+51. (1) 與 MySQL 建立資料庫連結的 PHP 函數為何？ ①mysql_connect() ②mys ql_close() ③mysql_query() ④mysql_select_db() 。
+52. (2) 刪除檔案的 PHP 處理函數為何？ ①file_remove ②unlink ③del_exists ④ rm 。
+53. (4) 傳送附檔郵件資料使用的 PHP 編碼函數為何？ ①mail() ②md5() ③chuc k_split() ④base64_encode() 。
+54. (3) 取得目前工作資料夾的 PHP 函數為何？ ①mrdor() ②cd() ③getcwd() ④c hdir() 。
+55. (1) PHP 程式中 fopen()函數開啟唯讀檔案模式的參數為何？ ①r ②a ③w ④b 。
+56. (2) PHP 程式中 fopen()函數開啟在檔尾新增資料檔案模式的參數為何？ ①r ②a ③w ④b 。
+57. (3) 取得 Session 資料變數的 PHP 指令為何？ ①$GLOBALS ②$_SERVER ③$_SESSION ④$_COOKIE 。
+58. (1) 在 PHP 程式中新增 Cookie 資料內容時，expire 參數的單位為何？ ①sec (秒) ②min(分) ③msec(毫秒) ④day(天) 。
+59. (2) PHP 新增 Cookie 時使用的內建函數為何？ ①getcookie() ②setcookie() ③addcookie() ④creatcookie() 。
+60. (4) PHP 程式中，除了$_COOKIE 外，還可存取 Cookie 內容資料者為何？ ①$_SESSION ②$_COOKIE ③$GETCOOKIE ④$HTTP_COOKIE_VARS [] 。
+61. (1) Cookie 變數的儲放位置為何？ ①Client Side ②Server Side ③ISP ④Prox Page 21 of 56 y 。
+62. (1) 色彩的三屬性是依據光波何種特性來區別色相？ ①波長之長短 ②反射 率之高低 ③振幅之高低差 ④折射率之高低 。
+63. (2) 色彩的三屬性中，何者是依據光波反射率之高低區別色彩？ ①色相 ②明 度 ③彩度 ④色系 。
+64. (3) 色彩的三屬性中，何者是依據光波本身振幅之高低差區別色彩？ ①色相 ②明度 ③彩度 ④色系 。
+65. (1) 色彩學中常用的專有名詞 Hue 所指為何？ ①色相 ②明度 ③彩度 ④色調 。
+66. (3) 色彩學中常用的專有名詞 Chroma 所指為何？ ①色相 ②明度 ③彩度 ④ 色立體 。
+67. (2) 色彩學中常用的專有名詞 Value 所指為何？ ①彩度 ②明度 ③色相 ④色 立體 。
+68. (3) 運用 RGB 色光調色時，紅色加藍色結果為何？ ①綠色 ②咖啡色 ③洋紅 色 ④黃色 。
+69. (3) RGB 色光中藍色的補色為何？ ①青色 ②洋紅色 ③黃色 ④橙色 。
+70. (1) RGB 色光中紅色的補色為何？ ①青色 ②洋紅色 ③黃色 ④橙色 。
+71. (2) 色彩調色時，依純白及純黑兩色不同比例配出不同程度的灰階顏色，此 種配色方式依據的屬性為何？ ①色相 ②明度 ③彩度 ④對比 。
+72. (2) 運用前進色與後退色之配色技巧，使版面產生立體感，那一個敘述較不 恰當？ ①明度高的色彩較有前進感 ②寒色色彩較有前進感 ③紅色色系 較有前進感 ④在黑色背景中，黃色與青色並列時，黃色會感覺較前面 。
+73. (2) 影像處理軟體中，要提高黑白圖片的對比，需調整圖片之何種數值？ ① 亮度 ②反差 ③彩度 ④色相 。
+74. (3) 影像處理軟體中，影像圖檔的色彩表示有 RGB 及 CMYK 色系，其中 CM YK 的「C」表示為何？ ①黑色 ②黃色 ③青色 ④洋紅色 。
+75. (4) 影像處理軟體中，影像圖檔的色彩表示有 RGB 及 CMYK 色系，其中 CM YK 的「M」表示為何？ ①黑色 ②黃色 ③青色 ④洋紅色 。
+76. (2) 兩個相同的禮盒，分別用鮮黃色及暗綠色包裝紙包裝，感覺上用鮮黃色 紙包裝的禮盒較輕，其主要是因為色彩的那一個屬性不同所呈現的結 果？ ①彩度 ②明度 ③色相 ④濃度 。
+77. (2) 影響色彩輕重感覺最主要的屬性為何？ ①色相 ②明度 ③彩度 ④濃度 。
+78. (3) 影像處理軟體中，運用色彩選擇工具取得 RGB 值為(128,128,128)，其顯 示的顏色為何？ ①淡藍色 ②淡黃色 ③灰色 ④淡紅色 。
+79. (2) 搭配明視度最高之色彩為何？ ①綠底黃字 ②黑底黃字 ③紅底橙字 ④黃 底白字 。
+80. (1) 明度最高之純色為何？ ①黃色 ②橙色 ③紅色 ④藍色 。
+81. (4) 明度最低之純色為何？ ①黃色 ②橙色 ③紅色 ④藍色 。
+82. (2) 會讓人有輕快感覺之色彩為何？ ①棗紅色 ②明黃色 ③墨綠色 ④藏青色 。
+83. (3) 會讓人有較沉重感覺之色彩為何？ ①天藍色 ②翠綠色 ③藏青色 ④粉紅 色 。
+84. (2) 平面上兩條粗細不同、長度相等的線，其視覺效果為何？ ①粗線感覺較 長 ②細線感覺較長 ③一樣長 ④不一定 。
+85. (1) 平面上有兩個相等的圓，分別被大小不同的圓包圍時，其大圓內的圓視 覺效果為何？ ①較小 ②較大 ③一樣 ④變形 。
+86. (1) 設計美學中，何者不是線的特質？ ①體積 ②粗細 ③方向 ④角度 。
+87. (2) 設計美學中，自由曲線在視覺上通常具有何種感覺？ ①工整 ②活潑 ③ 單調 ④刻板 。
+88. (3) 設計美學中，斜角方向的線較會引起何種心理效果？ ①權威 ②靜寂 ③ 動態 ④呆板 。
+89. (4) 設計原理中，點置於何處最穩定且具有放射的力量？ ①上方 ②下方 ③ 左方 ④中央 。
+90. (4) 設計美學中，「萬綠叢中一點紅」及「鶴立雞群」是何種表現？ ①比例 ②調合 ③平衡 ④對比 。
+91. (4) 在美的形式原理中，對稱不具何種特性？ ①上下 ②旋轉 ③放射 ④律動 。
+92. (2) CSS 語法定義新的 class 樣式名稱，其前面須加上何種符號？ ①& ②. ③？ ④# 。
+93. (3) CSS 語法「mycss: hover{color: #0000FF;} 」表示該超連結文字做何種操 作會讓超連結文字變成藍色？ ①滑鼠左鍵按下且未放開時 ②滑鼠游標 離開時 ③滑鼠游標移到該連結上 ④滑鼠游標點選連結後 。
+94. (1) 何種 CSS 語法可設定字體顏色的屬性？ ①color ②text-color ③font-colo r ④foreground -color 。
+95. (2) CSS 屬性何者可設定英文字首為大寫？ ①text-indent: capitalize; ②text-t ransform: capitalize; ③text-decoration: capitalize; ④CSS 無法做到 。
+96. (1) CSS 區塊模型(Box Model)是用來描述一個方型元素的結構，何種屬性不 包含在區塊模型中？ ①size ②margin ③padding ④border 。
+97. (4) 何者不是 HTML 4.0 文件內加入 CSS 的方法？ ①Embedded Style Sheet ②Imported Style Sheet ③Linked Style Sheet ④Browser's Own Style She et 。
+98. (1) HTML 4.0 文件內加入 CSS，何種樣式被套用的順序最優先？ ①Inline St yle ②Embedded Style Sheet ③Linked Style Sheet ④Imported Style Sheet 。
+99. (3) 關於 CSS 之敘述何者正確？ ①Embedded Style Sheet 是將 CSS 程式碼與 HTML 程式碼合併寫在一起 ②Inline Style 是將 CSS 程式碼寫在 標籤內 ③Linked Style Sheet 是透過 標籤告知瀏覽器去載入一個外部 連結的樣式檔 ④Imported Style Sheet 是當 HTML 文件內的標籤需要格式 Page 23 of 56 設定時，瀏覽器才會向所指定的樣式檔載入樣式 。
+100. (2) 何種 CSS 語法可使網頁捲動時，背景圖案會跟著移動？ ①{backgroundattachment: move;} ②{background-attachment: scroll;} ③{background-i mage: scroll;} ④{background-repeat: repeat;} 。
+101. (3) 何種 CSS 語法屬性可設定樣式表之內容與邊框的留白範圍？ ①margin ②border ③padding ④blank 。
+102. (2) 何種 CSS 語法屬性可設定樣式表的邊界？ ①border ②margin ③padding ④form 。
+103. (4) 一數位影像檔，影像尺寸 6×4 英吋，解析度為 150ppi，則其像素矩陣為 多少像素？ ①6×4 ②24×150 ③640×480 ④900×600 。
+104. (1) Photoshop 中使用矩形或圓形選取工具劃出選取區域時，搭配鍵盤中的那 一個按鍵可畫出[正方形]或[正圓形]的選取區域？ ①Shift ②Alt ③Space ④Ctrl 。
+105. (4) Photoshop 中使用那一種工具能自動消除照片中的紅眼狀況？ ①修復筆 刷工具 ②汙點修復筆刷工具 ③濾鏡工具 ④紅眼工具 。
+106. (2) Photoshop 中欲將一個原先用於印刷用途的影像檔案 (規格：影像尺寸 3 x 3 英吋，解析度 350ppi)，在尺寸不變的條件下，改為網頁展示用，何種 的操作較適當？ ①將解析度改為 72ppi 時，且影像不重新取樣 ②將解析 度改為 72ppi 時，且影像重新取樣 ③將解析度改為 350ppi 時，且影像重 新取樣 ④將解析度改為 350ppi 時，且影像不重新取樣 。
+107. (2) Photoshop 文字排版的相關名詞中，關於「均線 (Mean Line)」的敘述何者 較適當？ ①介於基線(Base Line)與下降線(Descender Line)之間 ②代表 小寫字母高度的線 ③安放所有字元的基準線 ④代表大寫字母高度的線 。
+108. (4) Photoshop 中使用何種濾鏡，能使數位照片產生具有速度感的效果？ ①靜 態模糊 ②邊緣模糊 ③鏡頭模糊 ④動態模糊 。
+109. (3) 調整 Photoshop「色階」面板中的影像色階時，若要調整為最亮的階調應 該選擇下列何者數值？ ①0 ②10 ③255 ④256 。
+110. (4) Photoshop 預設環境中數位影像的變形操作時，若要執行旋轉動作，進行 操作時按著 shift 鍵，每次旋轉增量(Step)為多少度？ ①90 ②45 ③30 ④1 5 。
+111. (2) Photoshop 中針對所選取的影像區域操作傾斜變形效果，使用滑鼠拖拉邊 界方框中間的控制點時，需按住那個鍵盤按鍵方可進行水平或垂直傾斜 變形？ ①Alt ②Shift ③Ctrl ④Tab 。
+112. (4) Photoshop 關於濾鏡功能之敘述何者較適當？ ①濾鏡不可多重套用 ②所 有濾鏡皆能用在 CMYK 色彩模式的檔案中 ③所有濾鏡皆能用在[點陣圖] 或[索引色]的色彩模式檔案中 ④LAB 色彩模式(8 或 16 位元/色板)的檔案 中只支援部分濾鏡 。
+113. (3) Photoshop 用來編輯網頁用的圖片，何種條件(影像解析度、色彩模式、 檔案格式)的組合最適合？ ①350ppi、CMYK、EPS ②72ppi、RGB、EPS Page 24 of 56 ③72ppi、RGB、JPEG ④350ppi、CMYK、JPEG 。
+114. (1) Photoshop 中欲將圖片的色彩模式由 [RGB]轉換成[雙色調]的步驟何者較 為適當？ ①先轉成[灰階]，再轉成[雙色調] ②直接將[RGB]轉成[雙色調] ③先轉成[LAB]，再轉成[雙色調] ④先轉成[CMYK]，再轉成[雙色調] 。
+115. (3) Photoshop 中一個 8 位元的灰階檔案，最多可以包含多少色階？ ①8 ②2 52 ③256 ④65536 。
+116. (3) Photoshop 中何者為最常使用在印刷用途的色彩模式？ ①RGB ②LAB ③ CMYK ④索引色 。
+117. (3) Photoshop 中何者不是進行 Color Correction( 色彩修正與調整)時所用的術 語？ ①Saturation ②Chroma ③Alignment ④Tone 。
+118. (4) Photoshop 中製作一個包含去背的透明背景及陰影效果的網頁圖片，且要 保留 Alpha 透明度，應該選擇何種檔案儲存格式？ ①GIF ②JPEG ③PN G-8 ④PNG-24 。
+119. (3) Photoshop 預設環境中使用圖層遮色片，其遮色片內使用黑色與白色各代 表何種意義？ ①黑色顯示影像，白色隱藏影像 ②黑色羽化影像，白色反 白顯示影像 ③黑色隱藏影像，白色顯示影像 ④黑色反轉影像，白色顯示 影像 。
+120. (1) Photoshop 製作使用於網頁上包含簡單線條的圖案且具有交 錯式效果的 圖檔，儲存何種影像格式較適當？ ①GIF ②PDF ③TIFF ④JPEG 。
+121. (2) 「網頁安全色」在 Internet Explorer 能正常顯示的顏色，其顏色數為多 少？ ①108 ②216 ③256 ④512 。
+122. (3) PHP 用何種符號加上變數名稱來表示變數？ ①# ②& ③$ ④% 。
+123. (2) PHP 用何種保留字來宣告常數？ ①set ②define ③var ④array 。
+124. (4) 要宣告一個物件前， PHP 用那個關鍵字來定義該物件的類別？ ①set ②d efine ③use ④class 。
+125. (1) PHP 使用何種函數可將變數的資料型態轉換成整數？ ①intval ②floatval ③doubleval ④strval 。
+126. (2) PHP 使用何種函數可將變數的資料型態轉換成浮點數？ ①intval ②float val ③conval ④strval 。
+127. (2) PHP 使用何種語法來輸出字串在網頁上？ ①type ②print ③string ④sho w 。
+128. (1) 若要顯示 2 進位的整數，可使用 PHP 的那個格式字元？ ①%b ②%c ③% d ④%u 。
+129. (2) 若要顯示字元，可使用 PHP 的那個格式字元？ ①%b ②%c ③ %d ④%u 。
+130. (3) 若要顯示有正負號的整數，可使用 PHP 的那個格式字元？ ①%b ②%c ③%d ④%u 。
+131. (4) 若要顯示無正負號的整數，可使用 PHP 的那個格式字元？ ①%b ②%c ③%d ④%u 。
+132. (1) 若要顯示浮點數，可使用 PHP 的那個格式字元？ ①%f ②%o ③%s ④%x 。
+133. (2) 若要顯示 8 進位的整數，可使用 PHP 的那個格式字元？ ①%f ②%o ③% s ④%x 。
+134. (3) 若要顯示字串，可使用 PHP 的那個格式字元？ ①%f ②%o ③%s ④%x 。
+135. (4) 若要顯示小寫的 16 進位整數，可使用 PHP 的那個格式字元？ ①%f ②% o ③%s ④%x 。
+136. (1) 若要顯示大寫的 16 進位整數，可使用 PHP 的那個格式字元？ ①%X ②% H ③%h ④%x 。
+137. (4) 何者陳述式不是 PHP 的條件控制語法？ ①if ②?: ③switch ④continue 。
+138. (1) 何者陳述式不是 PHP 的迴圈控制語法？ ①if…elseif…else ②break ③for ④do…while 。
+139. (1) 可檢視陣列內容的 PHP 函數為何？ ①var_dump ②is_arrary ③sizeof ④i s_array 。
+140. (2) PHP 檢視陣列的函數何者可以顯示變數的內容？ ①is_arrary ②print_r ③sizeof ④is_array 。
+141. (3) PHP 檢視陣列的函數何者可以計算陣列的元素數目？ ①var_dump ②prin t_r ③sizeof ④is_array 。
+142. (4) PHP 檢視陣列的函數何者可以檢查指定的變數是否是陣列？ ①var_dump ②print_r ③sizeof ④is_array 。
+143. (1) PHP 檢視陣列的函數何者可以指定陣列的元素給變數？ ①list ②isset($a rrary[$key]) ③arrary_key_exists ④in_arrary 。
+144. (2) PHP 檢視陣列的函數何者可以檢查指定的陣列鍵值是否為 ②isset($arrary[$key]) ③arrary_key_exists ④in_arrary 。
+145. (3) PHP 檢視陣列的函數何者可以檢查指定的鍵值是否存在於陣列中？ ①lis t ②isset($arrary[$key]) ③arrary_key_exists ④in_arrary 。
+146. (4) PHP 檢視陣列的函數何者可以檢查指定的數值是否存在於陣列中？ ①lis t ②isset($arrary[$key]) ③arrary_key_exists ④in_arrary 。
+147. (1) ASP.NET 應用程式位於網站伺服器內的一個虛擬目錄中，並由一群檔 案、網頁、處理常式、模組與可執行碼所組成，何者為包含所有 ASP.NE T 應用程式要使用的編譯過的.NET 組件(DLL 檔案)？ ①Bin ②App_Cod e ③App_data ④App_Themes 。
+148. (2) ASP.NET 應用程式位於網站伺服器內的一個虛擬目錄中，並由一群檔 案、網頁、處理常式、模組與可執行碼所組成，何者為包含要使用在設 計者的應用程式內之動態編譯過的程式碼？ ①Bin ②App_Code ③App_d ata ④App_Themes 。
+149. (3) ASP.NET 應用程式位於網站伺服器內的一個虛擬目錄中，並由一群檔 案、網頁、處理常式、模組與可執行碼所組成，何者用來放置資料庫與 X ML 等資料檔案？ ①Bin ②App_Code ③App_data ④App_Themes 。
+150. (4) ASP.NET 應用程式位於網站伺服器內的一個虛擬目錄中，並由一群檔 案、網頁、處理常式、模組與可執行碼所組成，何者用來放置 ASP.NET 應用程式使用的佈景檔案？ ①Bin ②App_Code ③App_data ④App_The mes 。
+151. (1) ASP.NET 網頁的指示詞(Directive)來控制 ASP.NET 網頁的行為，何者為 其指示詞？ ①以 符號開頭，以 結尾 ②以 符號開頭，以 結尾 ③以 符號開頭，以 結尾 ④以 符號開頭，以 結尾 。
+152. (1) ASP.NET 的指示詞(Directive)何者定義剖析器及編輯器使用的專用屬 性？ ①@Page ②@Control ③@Import ④@OutputCache 。
+153. (2) ASP.NET 的指示詞(Directive)何者定義使用者控制項(.ascx 檔案)的特定 屬性以供剖析器及編輯器使用？ ①@Page ②@Control ③@Import ④@O utputCache 。
+154. (3) ASP.NET 的指示詞(Directive)何者可將命名空間(Namespace)明確匯入至 ASP.NET 應用程式的檔案，能在檔案中使用該命名空間的所有類別及介 面？ ①@Page ②@Control ③@Import ④@OutputCache 。
+155. (4) ASP.NET 的指示詞(Directive)何種宣告方式用來控制網頁中含 ASP.NET Web 或使用者控制項的輸出快取原則？ ①@Page ②@Control ③@Impor t ④@OutputCache 。
+156. (1) PHP 使用何種運算子可將字串連結？ ①﹒ ②＋ ③－ ④＆ 。
+157. (4) PHP 程式 rld ③HelloWorld ④0 。
+158. (2) PHP 程式 其輸出為何？ ① escaped character ④escaped character 。
+159. (3) PHP 程式 ①strlen($a) ②abcdefg ③7 ④'abcdefg' 。
+160. (2) 何種實體網路拓樸最有可能因網路交換器 (Switch Hub)故障，導致整個網 路當掉？ ①Bus ②Star ③Ring ④Mesh 。
+161. (3) 要從有線的 LAN 轉換成無線的乙太網路 LAN，網路上的每台主機必須改 變何者？ ①不需要作任何改變 ②每台主機將需要新的 IP 位址 ③每台主 機將需要適當的網路介面卡或轉接器 ④每台主機將需要升級作業系統 。
+162. (3) 企業要延伸 LAN 到 6 個分開的建築物，為了要減少 LAN 媒體上的訊號 衰減量，在建築物間使用何種傳遞媒體為最適當？ ①Wireless ②Coaxial Cable ③Fiber ④Twisted Pair 。
+163. (2) 使用者抱怨網路反應時間不佳，何種設備可用來取代集線器，且能立即 改善反應時間？ ①Router ②Switch ③Bridge ④Repeater 。
+164. (4) 網路介面卡 NIC(Network Interface Card) 上的 MAC 位址（Media Access Control Address ）是屬於 OSI 模式的那一層？ ①Physical ②Application ③Network ④Data Link 。
+165. (3) 橋接器(Bridge)使用何種位址來作過濾和交換的決定？ ①來源 MAC 位址 其輸出為何？ ①Hello+World ②Hello Wo ② ③ 其輸出為何？ ①strlen($a) ②abcdefg ③7 ④ Page 27 of 56 (Source MAC) ②來源 IP 位址(Source IP) ③目的地 MAC 位址(Destinatio n MAC) ④網路 IP 位址(Network IP Address) 。
+166. (1) 何者可使不同的網路供應商設計的軟硬體更容易整合？ ①OSI 模式(OSI Model) ②IP 定址策略(IP Addressing Scheme) ③標準邏輯拓樸(Standard Logical Topology) ④標準實體拓樸(Standard Physical Topology) 。
+167. (4) 資料由應用層往實體層的協定堆疊中往下送，經過每一層均會將該層的 資訊加入原資料前(後)，然後再往下傳送，此種過程稱之為何？ ①Divisi on ②Encoding ③Segmentation ④Encapsulation 。
+168. (3) OSI 七層架構中，傳輸層的資料單元稱之為何？ ①Bit ②Packet ③Segme nt ④Frame 。
+169. (4) OSI 七層架構中，提供網路服務來處理電子郵件和檔案傳輸為何層？ ①D ata Link ②Transport ③Network ④Application 。
+170. (4) 當資訊設備傳送訊息時包括：(A)區段、(B)位元、(C)封包、(D)資料、(E) 訊框，資料封裝之順序為何？ ①B-D-C-E-A ②B-A-C-E-D ③D-C-A-B-E ④D-A-C-E-B 。
+171. (1) OSI 七層架構中，實體層(Physical Layer) 功能的最佳描述為何？ ①定義 終端系統間鏈路的電氣和功能規格 ②提供經實體鏈路的可靠的料傳送 ③提供兩終端系統間的連接性和路徑選擇 ④處理實體位址、網路拓樸和 媒體存取 。
+172. (3) MAC 位址（Media Access Control Address ）有多少十六進位數？ ①2 ②8 ③12 ④16 。
+173. (2) MAC 位址（Media Access Control Address ）屬於 OSI 七層中的那一層？ ①1 ②2 ③3 ④4 。
+174. (2) 路由器具有乙太網路、記號環、串列和 ISDN 等介面，那些介面會有 MA C 位址（Media Access Control Address ）？ ①串列和 ISDN 介面 ②乙太 網路和記號環介面 ③乙太網路和 ISDN 介面 ④記號環和串列介面 。
+175. (4) 乙太網路之介面卡 NIC(Network Interface Card) 可以傳送資料的時機為 何？ ①收到訊框時 ②收到一個記號時 ③偵測到碰撞時 ④偵測無線上訊 號時 。
+176. (1) OSI 七層架構中，何者屬於實體層的網路設備？ ①Repeater ②Switch ③ Bridge ④Router 。
+177. (2) 何者屬於區域網路(LAN)？ ①連接廣大地理區域用戶的網路 ②連結地理 上有限區域內的工作站、終端機和其他設備的網路 ③連接跨國企業各部 門的網路 ④用工作群組的設定來連接設備的網路 。
+178. (3) 電腦的 MAC 位址（Media Access Control Address ）何時會改變？ ①移 動橋接器 ②變更網路介面卡的 PCI 匯流排位置 ③更換網路介面卡 ④網 路介面卡速度自動由 10 Mbps 切換至 100 Mbps 。
+179. (4) OSI 七層架構中，傳輸層(Transport Layer)的主要功能為何？ ①Network Media ②Representation and Encoding ③Selects Paths ④End-to-End Con Page 28 of 56 nectivity 。
+180. (1) IP 位址 127.0.0.1 之敘述何者最正確？ ①保留當作迴路(Loopback)測試 ②保留當作多點傳輸群組(Multicast Group)測試 ③保留當作單點傳輸 (Un icast)測試 ④屬於 B 級位址範圍 。
+181. (4) 網路中 DHCP 伺服器的功能為何？ ①解析 MAC 位址成 IP 位址 ②解析 I P 位址成 MAC 位址 ③解析主機名稱成 IP 位址 ④動態指派 IP 位址給主 機 。
+182. (1) TCP/IP 模式中，那一分層同時支援 LAN 和 WAN 的技術？ ①Network A ccess Layer ②Internet Layer ③Transport Layer ④Application Layer 。
+183. (4) 交換器和路由器使用何者作為轉送的依據？ ①交換器和路由器兩者使用 IP 位址 ②交換器和路由器兩者使用 MAC 位址 ③交換器使用 IP 位址， 路由器使用 MAC 位址 ④交換器使用 MAC 位址，路由器使用 IP 位址 。
+184. (1) FTP 提供可靠的連結導向服務來傳送檔案，當使用 FTP 服務時，那個傳 輸層協定被用來做資料傳送？ ①TCP ②DNS ③IP ④UDP 。
+185. (2) OSI 模式中，那個應用層協定允許網路設備交換管理資訊？ ①SMTP ②S NMP ③FTP ④TFTP 。
+186. (4) 何種協定被用來在電腦間傳送檔案，但被視為無連結導向 (Connectionles s)？ ①DHCP ②SNMP ③FTP ④TFTP 。
+187. (4) OSI 模式中，何層能提供主機間可靠的連結導向服務進行資料傳輸？ ①A pplication Layer ②Presentation Layer ③Session Layer ④Transport Layer 。
+188. (3) 何種設備會在乙太網路內產生多個碰撞領域 (Multiple Collision Domain s)？ ①NIC ②Hub ③Router ④Repeater 。
+189. (4) 若橋接器(Bridge)收到一個 MAC 位址不在橋接表內的訊框(Frame)，會對 訊框進行何種處理？ ①丟棄 ②忽略 ③傳送訊框到適當的埠 ④傳送訊框 到來源埠之外的所有的埠 。
+190. (3) 何種網路設備會同時減少碰撞領域和廣播領域的大小？ ①Layer 2 Switc h ②Hub ③Bridge ④Repeater 。
+191. (2) 何種無線網路標準運作在頻率範圍 5 GHz 左右，且有 54 Mbps 的資料傳 送率？ ①802.11 ②802.11a ③802.11b ④802.11g 。
+192. (4) 路由程序(Routing Process)的主要目的為何？ ①傳遞廣播訊息 ②對應 IP 位址成 MAC 位址 ③對應 MAC 位址成 IP 位址 ④繞送一個網路或子網路 到另一個的路徑 。
+193. (1) 那個設備因不會轉送廣播而提高網路安全性？ ①Router ②Bridge ③Hub ④Repeater 。
+194. (3) POP3 是設定網路連線時的何種伺服器？ ①檔案伺服器 ②網站伺服器 ③ 收信伺服器 ④寄信伺服器 。
+195. (4) SMTP 是設定網路連線時的何種伺服器？ ①檔案伺服器 ②網站伺服器 ③收信伺服器 ④寄信伺服器 。
+196. (2) 何者是「檔案傳送」所使用的通訊協定？ ①HTTP ②FTP ③ISP ④MAIL TO 。
+197. (2) 何者是電子郵件「內收郵件」所使用的通訊協定？ ①FTP ②POP ③SMT P ④IPX 。
+198. (3) 何者是電子郵件「外寄郵件」所使用的通訊協定？ ①FTP ②POP ③SMT P ④IMAP 。
+199. (2) 在 OSI 七層協定中「網路硬體協定」，屬於那一層？ ①網路層 ②實體層 ③應用層 ④傳輸層 。
+200. (2) 在 OSI 七層協定中定義終端設備與網路間使用的介面，屬於那一層？ ① 網路層 ②實體層 ③應用層 ④傳輸層 。
+201. (2) 那個 FTP 指令可以用來查看遠端 FTP 伺服器目前所在目錄之位置？ ①g et ②pwd ③put ④bin 。
+202. (2) 若要在自己設計的網頁中，將文字「故宮博物館」設定連結到故宮博物 館網站，應該使用下列那種功能來設定？ ①框架超連結 ②網站超連結 ③跑馬燈 ④影像地圖 。
+203. (2) 在利用「HTML 語言」撰寫網頁時，若撰寫此行＜ TITLE＞勞動部的網站 ＜/TITLE＞的語法，則「勞動部的網站」將會被顯示在何處？ ①瀏覽視 窗 ②瀏覽器的標題列 ③在這份文件內容的最上面 ④狀態列 。
+204. (4) 在設計網頁時，可以利用那一種網頁製作方法，將網頁畫面分割成多個 區塊來顯示網頁？ ①佈景主題 ②超連結 ③DHTML 動態效果 ④HTML 區塊標籤 。
+205. (2) HTML(Hyper Text Markup Language) 標準是由那一個單位制定的？ ①IE EE ②W3C ③ISO ④EIA 。
+206. (4) 在 HTML 標籤語法中，那一種標籤可以在瀏覽器的標題列上加入標題列 文字？ ①<HEAD>...</HEAD> ②<P>...</P> ③<BODY>...</BODY> ④<TITLE>...</TITLE> 。
+207. (2) Internet 上常用 DNS(Domain Name System) 的預設通訊埠號為何？ ①110 ②53 ③21 ④25 。
+208. (2) 定義終端設備與網路間使用的介面屬於 OSI 七層協定中那一層？ ①網路 層 ②實體層 ③應用層 ④傳輸層 。
+209. (3) 目前 TCP 協定之 Well-Known Port 最大分布範圍為何？ ①0～127 ②0～2 55 ③0～1023 ④0～2047 。
+210. (3) 何種標準網路設備可連接 192.168.1.0 與 192.168.2.0 的 IP 網路？ ①Hub ②Bridge ③Router ④Repeater 。
+211. (4) OSI 七層協定之第三層通訊協定為何？ ①Transport ②Data Link ③Physi cal ④Network 。
+212. (1) 何種聲音檔案格式最不利於網路傳輸速度的考量？ ①WAV ②MIDI ③M P3 ④WMA 。
+213. (1) 何者軟體可製作動畫及背景透明效果？ ①Gif Animator ②Media Player ③Word ④WinRAR 。
+214. (3) 何者是動態圖形的副檔名？ ①.cgm ②.bmp ③.gif ④.jpg 。
+215. (4) 何者可檢視目前電腦上的資源被網路其他 Users 使用的狀況？ ①網路安 裝精靈 ②遠端桌面連線 ③超級終端機 ④網路監控程式 。
+216. (3) 何種 FTP 指令可將本地端機器的檔案傳輸至遠端 FTP 伺服器上？ ①get ②pwd ③put ④bin 。
+217. (2) 網路日誌又稱為「部落格（Blog）」，何者無法用來架設個人網路日誌？ ①Movable Type ②WordPad ③Word Press ④LifeType 。
+218. (2) 將 Class C 網路以網路遮罩 255.255.255.192 切割成子網路，可劃分為幾 個網路區段？ ①2 ②4 ③8 ④16 。
+219. (4) 運用何種方式可以節省網頁設計所佔的空間？ ①將網頁分類 ②使用動 態 GIF 檔案 ③將圖片排序 ④降低圖片的大小及解析度 。
+220. (3) 何種視訊檔案格式最不適合使用於網頁上？ ①QuickTime ②MPEG ③V OB ④WMV 。
+221. (2) 定義網頁資料顯示、格式化、特殊效果的標準稱之為何？ ①SCC ②CSS ③SSC ④CCS 。
+222. (3) FTP 服務中的傳輸層是使用何種協定？ ①IP ②UDP ③TCP ④NETBIOS 。
+223. (1) 何者不是 Server Side 的 Script 語言？ ①VBScript ②ASP.NET ③JSP ④P HP 。
+224. (4) 對於 JAVA 語言而言，運用在瀏覽器環境上的程式稱之為何？ ①MIDlet ②Spotlet ③JSP ④Applet 。
+225. (4) 何者不是安裝 Web Server 的軟體？ ①Apache Server ②Apache Tomcat ③IIS ④DHCP 。
+226. (2) Dreamweaver 建立網頁時，新增一個 Behavior，其實是套用何種語法？ ①ASP ②JavaScript ③PHP ④ActionScript 。
+227. (3) Class C 網路劃分為 4 個子網路，則可用 IP 數共有多少？ ①244 ②240 ③248 ④256 。
+228. (1) 何者是送出表單資料的控制項？ ①submit ②reset ③checkbox ④textbox 。
+229. (2) 何者不是用在網頁中以增強網頁效果或功能？ ①PHP ②QQ ③XML ④A SP 。
+230. (1) Dreamweaver 建立內部 CSS 樣式表時，應將 CSS 語法寫在那個標籤內？ ① ② ③ ④ 。
+231. (4) 用網路遮罩 255.255.255.248 來劃分網域，每個子網域最多有幾個 IP 位 址？ ①1 個 ②4 個 ③16 個 ④8 個 。
+232. (3) 何種 HTML 語法標籤(Tag)是用來設定超連結？ ① 233. (2) SharePoint 要以「開新視窗」的方式來呈現連結的網頁，目標框架 (Taget Frame)應設定為何？ ①_top ②_blank ③_home ④_parent 。
+234. (3) 網頁設計中，製作滑鼠移至圖片上會更換另一張圖片的效果需使用何種 功能？ ①插入超連結 ②跑馬燈 ③交換圖像效果 ④影像地圖 。
+235. (1) 用來傳回目前目錄字串的 PHP 函式為何？ ①string getcwd(void) ②int ge tmygid(void) ③int getmyuid(void) ④int gettype(mixed var) 。
+236. (2) 用來傳回目前 PHP 程式群體 ID 值的 PHP 函式為何？ ①string getcwd(vo id) ②int getmygid(void) ③int getmyuid(void) ④int gettype(mixed var) 。
+237. (3) 用來傳回 PHP 程式用戶識別碼的 PHP 函式為何？ ①string getcwd(void) ②int getmygid(void) ③int getmyuid(void) ④int gettype(mixed var) 。
+238. (4) 用來傳回變數 var 型態的 PHP 函式為何？ ①string getcwd(void) ②int ge tmygid(void) ③int getmyuid(void) ④int gettype(mixed var) 。
+239. (3) JavaScript 程式「 ④3 。
+240. (4) HTML 語法「 」，其功能表示尚未點選超 連結過的物件顏色為何？ ①紅色 ②黃色 ③綠色 ④藍色 。
+241. (2) HTML 語法標籤 設定文字 ④設定表格 。
+242. (1) 何種圖形格式最適合用於網頁的小型圖示或按鈕？ ①gif ②tif ③bmp ④ wmf 。
+243. (1) 何種網路結構，會因某部特定電腦故障可能導致整個網路都不通？ ①星 狀網路 ②雙環狀網路 ③匯流排式網路 ④樹狀網路 。
+244. (4) 撥接數據機是使用下列何種信號傳送？ ①數位信號 ②光脈衝 ③語音 ④ 調變音頻 。
+245. (1) 10 BaseT 網路，網路介面卡到集線器（Hub）間，線材最遠距離為何？ ①100 公尺 ②200 公尺 ③300 公尺 ④400 公尺 。
+246. (4) 何種介質的傳輸速率最快？ ①電話線 ②同軸電纜 ③雙絞線電纜 ④光纖 纜線 。
+247. (2) 何種網路資料傳輸速率可超過 100Mbps？ ①ADSL ②ATM ③T1 ④T3 。
+248. (2) 哪一 IP 位址被保留作迴路測試用？ ①0.0.0.1 ②127.0.0.1 ③255.255.0.0 ④255.255.255.0 。
+249. (3) 將 CLASS C 網路以網路遮罩 255.255.255.224 切割成子網路，可切成幾 個網路區段？ ①2 ②4 ③8 ④16 。
+250. (1) 將 CLASS C 網路以網路遮罩 255.255.255.224 切割成子網路，每個子網 路中可用之網路位址數為？ ①30 ②32 ③62 ④64 。
+251. (3) 何者最不可能是 XML 文件的功用？ ①儲存 HTML 顯示的文件內容 ②作 為資料交換的格式 ③作為編排處理的內容 ④作為資料儲存的格式 。
+252. (1) 何者是轉換 XML 文件的技術？ ①XSLT ②XQuery ③XPath ④XLink 。
+253. (4) 何者是連結資源的 XML 技術？ ①XSLT ②XQuery ③XPath ④XLink 。
+254. (2) 何者是解決 XML 文件標籤(Tag)名稱重複的最佳方式？ ①名稱宣告 ②名 」執行結果為何？ ①0 ②1 ③2 其作用為何？ ①設定分隔線 ②設定框架 ③ Page 32 of 56 稱空間 ③名稱加長 ④名稱縮寫 。
+255. (1) HTML 網頁中嵌入 PHP 程式碼，何組標籤最不適用？ ① ④ 。
+256. (2) 關於 PHP 程式『 』的意義為何？ ①顯示目前的網址訊息 ②顯 示 PHP 在網頁上的相關訊息 ③顯示程式執行時產生的錯誤訊息 ④顯示 程序執行完成的訊息 。
+257. (2) 關於 PHP 的 Cookie 與 Session 敘述何者最不適當？ ①Cookie 變數均儲 放在客戶端 ②Session 變數均儲放在伺服端 ③Cookie 與 Session 的生命 週期可自行設定 ④Cookie 與 Session 資料可以分別用$_COOKIE 與$_SE SSION 取得 。
+258. (1) PHP 用來建立一個新物件的關鍵字為何？ ①new ②create ③create object ④construct 。
+263. (2) 關於 HTML 標籤無法設定那一部分的顏色？ ①超連結 ②圖片外框 ③儲 存格的背景 ④表格格線 。
+264. (4) 關於 HTML 網頁欲加入註解應使用何種方式？ ① ② ③ ④ 265. (1) 何者最不適合置於 HTML 的 。
+266. (3) 關於 HTML 的 ② ③ ④ 267. (4) 那一個 XML 區塊是告訴 XML 剖析器不用處理此區塊的內容？ ① ② ③ ④ 。
+268. (2) XML 屬性是定義在 XML 元素的那一個部分？ ①元素內容 ②開始標籤 ③結尾標籤 ④註解 。
+269. (3) HTML 網頁中的標題文字共分為幾個層次？ ①4 ②5 ③6 ④7 。
+275. (3) 利用 XHTML 語法建立網頁表格之標題，應使用那一個標籤？ ① ③ ④ 。
+276. (2) 在 XHTML 中， 標籤的屬性何者用來指定接收表單資料之伺服器端的 程式？ ①method ②action ③name ④enctype 。
+277. (1) JavaScript 函式定義在那一標籤中最合理，以便程式可呼叫使用？ ① ② ③ ④ 。
+278. (4) 何者是 JavaScript 最不可能達到的功能？ ①更換背景色彩與字型大小 ② ② 標題跑馬燈 ③顯示線上時鐘或日曆 ④將資料直接寫入資料庫 。
+279. (4) JavaScript 中那一個指令可以反覆執行一段程序，直到條件不符合時才停 止？ ①if ②if…else ③for ④while 。
+280. (2) 關閉瀏覽器視窗時會觸發 JavaScript 那一個事件(Event)？ ①onLoad ②o nUnload ③onChange ④onBlur 。
+281. (2) JavaScript 中那一個不屬於文件(Document)物件的方法(Method)？ ①ope n ②read ③write ④close 。
+282. (1) JavaScript 中使用那一個指令來建構物件？ ①function ②new ③object ④class 。
+283. (2) JavaScript 中欲使網頁回到上一頁，應執行那一個指令？ ①history.back (1) ②history.go(-1) ③history.previous(1) ④history.forward( -1) 。
+284. (2) 利用 CSS 樣式設定超連結文字不出現底線，可利用那一個屬性 (Property) 進行設定？ ①text-align ②text-decoration ③text-indent ④text-transform 。
+285. (3) 利用 CSS 樣式設定段落字體為「微軟正黑體」，可利用那一個屬性 (Prop erty)進行設定？ ①font-style ②font-variant ③font-family ④font-weight 。
+286. (4) 利用 CSS 樣式設定段落字型的粗細，可利用那一個屬性 (Property)進行設 定？ ①font-style ②font-variant ③font-family ④font-weight 。
+287. (1) 在 JSP 網頁中，程式碼部分將以何種符號來標示？ ① ④ 。
+288. (14) 要修改產品（Product）資料表中主鍵「產品代號（ Pcode）」為'005'的「價 錢（Price）」由 25 元改成 30 元，那些 SQL 指令可以使用？ ①UPDAT E Product SET Price=30 ; ②UPDATE Product SET Price=30 WHERE Price=25; ③UPDATE Product SET Price=30; ④UPDATE Produc t SET Price=30 AND Price=25; 。
+289. (1234) 有關 SOAP 函式的敘述，何者正確？ ①SoapServer->addFunction( ) 方法， Page 34 of 56 可用來新增一至多個處理 SOAP 需求的函式 ②SoapServer->handle( )方 法，可用來處理 SOAP 需求 ③SoapServer->setClass( )方法，可設定類別 為處理 SOAP 需求的類別 ④SoapServer->getFunction( )方法，可取得函 式列表 。
+290. (124) 使用樣版的好處，何者正確？ ①美工人員與程式設計人員可以分開作業 ②可以使 MVC(Model-View-Controller)的設計架構更容易實現 ③可以增 加網頁的安全 ④可以更方便的使用類似 Dreamweaver 等網頁編輯工具來 編輯畫面 。
+291. (124) MySQL 的函式敘述，何者正確？ ①mysql_creat_db( )函式可用來建立新 的資料庫 ②mysql_db_name( )函式可用來取得資料庫名稱 ③mysql_drop _db( )函式也可用來建立新資料庫 ④mysql_errno( )函式可取得上一次 M ySQL 運算的錯誤碼 。
+292. (234) PHP 處理 MySQL 資料庫相關函式的敘述，何者正確？ ①mysql_connect ( )是用來開啟資料表 ②mysql_select_db( ) 是用來選擇要操作的資料庫 ③mysql_query( )是用來下達 SQL 語法 ④mysql_close( )是用來關閉資料 庫連線 。
+293. (123) SQL 語法的敘述，何者正確？ ①insert 語法可用來做資料的新增 ②upda te 語法可用來做資料的更新 ③select 語法可用來做資料的查詢 ④insert、 update、select 等三種語法統稱為非查詢語法 。
+294. (23) 欲從資料表中刪除特定條件的紀錄，需搭配那些 SQL 指令及關鍵字方能 正確完成？ ①insert ②delete ③where ④order 。
+295. (24) PHP 程式中執行 mysql_fetch_row( ) 函數的結果，何者正確？ ①取得資料 表格的欄位數 ②取得單筆完整資料 ③會將目前資料指標移至最後一筆 ④會將目前資料指標移至下一筆 。
+296. (14) Windows 的環境下，可以透過 php.ini 中的那些設定，來協助 PHP 中的 e mail 函式正常運作？ ①SMTP ②sendmail_path ③mail ④smtp_port 。
+297. (12) JavaScript 中何者是刪除 cookie 的方法？ ①修改 cookie 的 expire 參數， 將其設定為過期狀態 ②利用 setcookie 敘述，指定 cookie 名稱並忽略其 他參數，來刪除指定 cookie 檔案 ③關閉客戶端電腦 ④刪除伺服器中所有 暫存檔案 。
+298. (1234) 有關 PHP 陣列常用的函數敘述，何者正確？ ①count( )可用來計算陣列 的元素個數 ②unset( )可用來刪除陣列中的元素 ③sort( )可用來執行陣列 的排序 ④empty( )可用來檢查陣列元素值是否存在 。
+299. (124) PHP 的陣列敘述，何者正確？ ①宣告陣列變數時，以中括號表示，例如 : $name[5] ②陣列註標(index)由 0 起算 ③陣列中的元素必須為相同資料型 態 ④陣列視需要可動態增減元素個數 。
+300. (1234) 何者是 PHP 的流程控制語法？ ①if…else 敘述 ②switch…case 敘述 ③fo r 迴圈 ④do…while 迴圈 。
+301. (123) 何者是 PHP 的基本資料型態？ ①整數(integer) ②浮點數(double) ③字串 (string) ④指標(pointer) 。
+302. (124) PHP 變數的敘述，何者正確？ ①變數命名不可用數字當開頭 ②變數命名 大小寫有區分 ③任何英文均可用來當變數名稱 ④$ThisIsMyFirstVariabl e 是合法的變數命名 。
+303. (34) MySQL 與 phpMyAdmin 的敘述，何者正確？ ①匯入資料庫相當於資料 庫的備份 ②網路上若要管理資料庫系統的話，在瀏覽器鍵入 http://local host/phpMyAdmin 就可以了 ③MySQL 可以利用 MySQL console 來針對 資料庫下指令 ④匯出資料庫將會產生一個.sql 的檔案 。
+304. (13) PHP 的 echo 敘述，何者正確？ ①可將資料輸出為 HTML 文件格式 ②將 會讓電腦發出聲音 ③與指令 print 的功能相同 ④將於執行後印出 echo 這 個字串 。
+305. (14) PHP 程式(text.php)要在本機的網站根目錄下執行，何者正確？ ①http://l ocalhost/text.php ②http:\localhost ext.php ③http:\127.0.0.1 ext.php ④http://127.0.0.1/text.php 。
+306. (124) 網頁中要顯示字串「 Hello, world!」，何者正確？ ① ③ ④ 。
+307. (123) 那些色彩配色不屬於色光的補色配對？ ①紅色與黃色 ②藍色與青色 ③ 橙色與黃色 ④綠色與洋紅色 。
+308. (12) 影像處理軟體中，影像圖檔的色彩表示有 RGB 及 CMYK 色系，其中 CM YK 的說明那些正確？ ①「K」表示黑色 ②「Y」表示黃色 ③「C」表示 洋紅色 ④「M」表示青色 。
+309. (124) 影像處理軟體中，運用色彩選擇工具取得 RGB 值，有關其顯示的顏色那 些敘述正確？ ①(255,0,0)呈現紅色 ②(0,255,0)呈現綠色 ③(0,0,255)呈現 紫色 ④(255,255,0)呈現黃色 。
+310. (34) 何者不為 CSS 的註解語法？ ① 。
+311. (134) CSS 屬性表示那些正確？ ①color: rgb(0,0,255); ②font-type: Arial; ③fo nt-style: italic; ④font-weight: 600; 。
+312. (12) HTML 5 文件內，那些方法可直接將 CSS 樣式表撰寫於文件內 ? ①Inline Style ②Embedded Style Sheet ③Linked Style Sheet ④Imported Style Sh eet 。
+313. (124) CSS 自訂 class 樣式名稱為.myimage，如果要設計可讓滑鼠移動到圖片上 產生自動放大影像的效果，那些敘述不正確？ ①需要再額外增加一個樣 式.myimage: movor ②.myimage 樣式屬性的 width 要比額外新增樣式的 w idth 大 ③需要再額外增加一個樣式.myimage: hovor ④需要再額外增加一 個樣式.myimage: visited 。
+314. (13) 關於 CSS 屬性設定圖片加上外框的效果何者正確？ ①使用 border 設定圖 片框線的寬度 ②使用 area 設定圖片與邊框的留白範圍 ③使用 border-sty le 設定圖片框線的樣式 ④使用 color 設定外框的顏色 。
+315. (123) 關於影像平面化之敘述何者不正確？ ①只會平面化目前的圖層 ②文字 Page 36 of 56 圖層平面化後，文字仍然可以編輯 ③影像經過平面化後，可以隨時回復 原先的圖層架構 ④包含文字的圖層經過平面化之後，文字圖層會消失 。
+316. (123) Photoshop 文字排版的相關名詞中，何者敘述較不適當？ ①大寫高度(Ca p Height)為從「上升線(Ascender Line)」到「下降線(Descender Line) 」 之間的高度 ②字元大小(Point Size)為由「基線(Base Line)」開始至大寫 字母頂端的高度 ③基線(Base Line)代表下降部位最大下降深度的線 ④大 寫線(Cap Line)代表大寫字元最大高度的線 。
+317. (124) Photoshop 中處理影像圖層時，何種的編輯動作無法保留圖層非破壞性編 輯的特性？ ①影像重新取樣 ②影像平面化 ③將圖層轉換為[智慧型物 件] ④點陣化圖層 。
+318. (234) Photoshop 提供何種遮色片效果？ ①背景遮色片 ②向量遮色片 ③剪裁遮 色片 ④圖層遮色片 。
+319. (12) HTML Tag 對應到 HTML DOM 模型元素的關係，那些不正確？ ①HEAD 對應到 HTMLHeadingElement ②DIV 對應到 HTMLTableDivElement ③F ONT 對應到 HTMLFontElement ④MENU 對應到 HTMLMenuElement 。
+320. (1234) 在 HTML DOM 模型的 document.documentElement 物件中，可合法使用 那些方法(methods)？ ①appendChild( ) ②replaceChild( ) ③insertBefore ( ) ④getAttribute( ) 。
+321. (123) 在 HTML DOM 模型的 document.documentElement 物件中，那些方法(me thods)可產生新的 node？ ①createAttribute( ) ②createElement( ) ③creat eTextNode( ) ④createImageNode( ) 。
+322. (123) 在 HTML DOM 模型中的 document.documentElement 物件，可使用那些 方法(methods)來找到 HTML 的元件(element/node) 或元件列(node list)？ ①getElementById( ) ②getElementsByTagName( ) ③getElementsByClass Name( ) ④getElementByValue( ) 。
+323. (1234) 在 HTML DOM 模型的 document.documentElement 物件中，可改變 HTM L 文件中的那些內容？ ①HTML content ②CSS styles ③HTML attributes ④event(handlers) 。
+324. (124) 在 HTML DOM 模型中的 HTMLFormElement 物件，可合法使用那些方法 (methods)及屬性(properties)？ ①reset( ) ②submit( ) ③getlength( ) ④na me 。
+325. (1234) 在 HTML DOM 模型中的 HTMLImageElement 物件，可合法使用那些屬 性(properties)？ ①alt ②height ③longDesc ④lowsrc 。
+326. (34) 在 HTML DOM 模型中的 HTMLTableElement 物件，可合法使用那些方法 (methods)？ ①createTitle( ) ②createTFooter( ) ③createTHead( ) ④inser tRow( ) 。
+327. (1234) 在 HTML DOM 模型中的 HTMLLinkElement 物件，可合法使用那些屬性 (properties)？ ①hreflang ②media ③type ④charset 。
+328. (123) 在 HTML DOM 模型中的 HTMLSelectElement 物件，可合法使用那些方 Page 37 of 56 法(methods)及屬性(properties)？ ①add() ②remove() ③type ④selectedIn dexNodes 。
+329. (123) 在 HTML DOM 模型中的 Element 物件，可合法使用那些方法 (methods) 及屬性(properties) ？ ①appendChild( ) ②cloneNode( ) ③isEqualNode( ) ④isParentNode( ) 。
+330. (234) 何種影像格式常使用於網頁畫面？ ①TIFF ②JPG ③GIF ④PNG 。
+331. (134) 何種影像格式不屬於「破壞性壓縮」的影像檔格式？ ①TIFF ②JPG ③B MP ④PNG 。
+332. (124) 那些影像格式不能產生動畫及透明效果？ ①TIFF ②JPG ③GIF ④BMP 。
+333. (34) 那些影像格式能產生透明效果？ ①BMP ②JPG ③GIF ④PNG 。
+334. (123) 那些是網頁製作軟體？ ①Dreamweaver ②FrontPage ③SharePoint ④My SQL 。
+335. (234) Dreamweaver 中網頁格式效果不使用那些方式處理？ ①CSS 樣式 ②HT ML 標籤 ③ 語法 ④#符號 。
+336. (234) PHP 不使用那些符號來表示單行該符號後之文字為註解？ ①// ②? ③& ④$ 。
+337. (123) 那些方式可以用來轉換 PHP 網頁程式中變數的資料型態？ ①在變數前面 使用小括弧加上資料型態的名稱 ②使用轉換函數(如：intval)來轉換資料 型態 ③使用 settype 函數來轉換資料型態 ④使用 dim 來轉換資料型態 。
+338. (123) PHP 使用那些函數無法將變數的資料型態轉換成字串？ ①intval ②float val ③doubleval ④strval 。
+339. (123) PHP 可使用那些語法來輸出字串在網頁上？ ①echo ②print ③printf ④sh ow 。
+340. (234) PHP 使用那些語法無法輸出字串在網頁上？ ①echo ②type ③string ④sh ow 。
+341. (134) 在字串中使用字元“
+”語法，在那些電腦語言中輸出會產生「斷行」的 效果？ ①C ②PHP ③C++ ④Java 。
+342. (12) 乙太網路功能是運作在 OSI 模式的那二層？ ①Physical ②Data link ③Ne twork ④Transport 。
+343. (123) 關於 NIC 之敘述何者正確？ ①NIC 連接 PC 到網路媒體 ②NIC 偵測乙太 網路區段的碰撞 ③NIC 傳遞選定的訊框內容給較上的 OSI 層次 ④NIC 在 資料被傳送前檢查資料格式 。
+344. (34) 那些是高速乙太網路的技術？ ①100BASE-5 ②1000BASE-F ③100BASE -FX ④100BASE-TX 。
+345. (12) 關於 Gigabit 乙太網路技術之描述何者正確？ ①典型使用為骨幹佈線 ② 可以用銅線和光纖實作出 ③主要使用在工作站間 ④運作在 100Mbps 。
+346. (123) 哪些是傳輸層用來管理主機間分離的資料流？ ①埠號(port numbers) ② 確認號碼(acknowledgment numbers) ③序號(sequence numbers) ④認證鑰 匙(authentication keys) 。
+347. (12) 那些是 OSI 傳輸層(Transport layer)的主要目的？ ①Flow Control ②Endto-end Connectivity ③Path Determination ④Security Control 。
+348. (12) 關於 127.0.0.1 的 IP 位址之敘述何者正確？ ①它屬於 A 級位址範圍 ②它 保留當作迴路測試 ③它保留當作多點傳輸群組測試 ④它屬於 B 級位址範 圍 。
+349. (134) 那些為私有 IP 位址(Private Addresses)？ ①192.168.168.168 ②192.169.1 69.169 ③172.22.22.22 ④10.66.66.66 。
+350. (123) 乙太網路上發生了碰撞，那些敘述可用來說明 CSMA/CD 的運作程序？ ①在壅塞訊號之後，所有傳輸停止一段隨機周期 ②當後退期間到期後， 每個主機檢查看看是否網路媒體是否閒置，然後嘗試傳送 ③當碰撞被偵 測到，主機持續一段短時間以擁塞樣式傳輸來確保所有主機偵測到此碰 撞 ④當後退期間到期後，碰撞牽涉到的主機有優先權來傳輸 。
+351. (12) 那些設備會延伸碰撞領域？ ①Hub ②Repeater ③Switch ④Bridge 。
+352. (123) 當從高速乙太網路移植到 Gigabit 乙太網路，網路管理者應考慮那些項 目？ ①現存的 NIC 必須升級 ②現存的交換器必須升級 ③現存的 UTP 必 須測試通 CAT5e 相容 ④現存的 UTP 佈線必須以光纖取代 。
+353. (123) TCP 協定具備那些特徵？ ①強制未確認的封包之重傳 ②在終端使用者 應用程式間建立虛擬會談（Virtual Session ） ③負責將訊息分割成區段且 在它們的目的地重組它們 ④被用來傳送 IP 錯誤訊息 。
+354. (12) 那些屬於 TCP/IP 的應用層協定？ ①FTP ②SMTP ③TCP ④IP 。
+355. (124) B 級位址的網路與子網路遮罩那些是有效的設定？ ①255.255.252.0 ②25 5.255.255.192 ③255.0.0.0 ④255.255.0.0 。
+356. (34) 那些設備會在乙太網路上產生多個碰撞領域？ ①Hub ②NIC ③Switch ④ Router 。
+357. (123) 關於 CSMA/CD 的敘述何者正確？ ①它是使用在 LAN 上的媒體存取方法 ②當設備需要傳輸，它檢查看看是否媒體可用 ③同一時間只有一個設備 能成功地傳輸 ④多個設備可同時成功地傳輸 。
+358. (12) 那些是採購網路介面卡要考慮的重要特性？ ①網路上使用的媒介 ②電 腦使用的系統匯流排 ③網路上使用的安全性 ④網路上安裝的軟體 。
+359. (12) 那些是 UDP 和 TCP 共通的特性？ ①使用埠號 ②歸類為傳輸層的協定 ③確認資料的接收 ④歸類為無連結的協定 (Connectionless Protocol) 。
+360. (1234) 那些是檔案傳輸通訊協定(File Transfer Protocol,FTP) 和簡單式檔案傳輸 通訊協定(Trivial File Transfer Protocol,TFTP) 之間的差異？ ①FTP 可透 過互動方式執行；TFTP 允許只有單向傳輸的檔案 ②FTP 可提供使用者驗 證；TFTP 則否 ③FTP 使用 TCP 連接埠號碼為 20 及 21；TFTP 使用 UDP 連接埠號碼為 69 ④FTP 是完整、工作階段導向、一般用途的檔案傳輸通 訊協定；TFTP 作為極簡特殊目的檔案傳輸通訊協定 。
+361. (12) 那些是 TCP/IP 應用層協定？ ①TFTP ②DNS ③TCP ④UDP 。
+362. (12) 那些子網路遮罩可子網化一個 B 級 IP 位址？ ①255.255.224.0 ②255.255. Page 39 of 56 192.0 ③255.255.0.0 ④255.192.0.0 。
+363. (12) 在網路環境中使用 UTP 纜線有那些優點？ ①比光纖便宜 ②比同軸線容 易安裝 ③提供比同軸線長的距離 ④比光纖較不易受外界雜訊的影響 。
+364. (34) 使用光纖佈線來代替 UTP 纜線有那些優點？ ①低成本 ②容易安裝 ③允 許更長距離 ④較不受外界訊號的影響 。
+365. (34) 有線網路佈線需考慮那些因素？ ①作業系統 ②CPU 的速度 ③纜線佈線 距離 ④傳輸速度 。
+366. (123) 那些可用來當作網路通訊的傳輸訊號？ ①光樣式(Light Patterns) ②電壓 (Electrical Voltages) ③調變的電磁波(Modulated Electromagnetic Waves) ④磁化的流體波(Magnetized Fluid Waves) 。
+367. (12) 關於集線器(Hub)和交換器(Switch)之敘述何者正確？ ①交換器提供到 L AN 主機的更多流通量 ②交換器提供 LAN 上的無碰撞環境 ③集線器運作 在 OSI 模式的第 3 層 ④集線器減少 LAN 上的碰撞數目 。
+368. (12) 那些網路設備使用 MAC 位址來作轉送路徑的選擇？ ①Bridge ②Switch ③NIC ④Hub 。
+369. (12) 那些設備用以再生資料訊號，主要用來延伸在碰撞領域內網路線的區 段？ ①Repeater ②Switch Hub ③Router ④Bridge 。
+370. (123) 那些情況發生時需要安裝新的 NIC？ ①NIC 壞掉 ②需要提供第二個或備 份的 NIC 時 ③從有線媒介改成無線時 ④PC 移動到不同的地點時 。
+371. (12) 位元組(byte)的敘述何者正確？ ①8 個二進位數的群組 ②單一可定址資 料儲存位置 ③+5 伏特電氣 ④0 到 127 的數值範圍 。
+372. (134) 那些是 TCP/IP 模式的分層？ ①應用層(Application) ②實體層(Physical) ③網際網路層(Internet) ④網路存取層(Network Access) 。
+373. (13) 關於資料鏈結層(Data Link Layer)封裝的敘述何者正確？ ①會加上表頭 (Header)和表尾(Trailer) ②資料轉換成封包(Packets) ③封包(Packets)被 包裹成訊框(Frames) ④訊框(Frames)被分成區段(Segments) 。
+374. (123) 那些是量測頻寬的單位？ ①Kbps ②Mbps ③Gbps ④Nbps 。
+375. (12) 那些為決定流通量(Throughput)的因素？ ①網路拓樸 ②網路上使用者的 數目 ③伺服器使用的密碼種類 ④網路線的直徑 。
+376. (234) 何者不是 Telnet 指令所提供之功能？ ①遠端登入 ②電子郵件服務 ③檔 案傳輸服務 ④電傳視訊 。
+377. (23) 何者是「網路」所使用的通訊協定？ ①Ajax ②TCP/IP ③IPX/SPX ④JSP 。
+378. (123) 預設情況下，Dreamweaver 提供的跑馬燈功能，可以設定那些效果？ ① 文字捲動的速度 ②改變跑馬燈的背景顏色 ③文字來回捲動的次數 ④動 態變更文字內容 。
+379. (123) 網頁版面設計的方式有那些？ ①div ②iframe ③frame ④meta 。
+380. (123) 何者可作為網頁編輯軟體？ ①SharePoint ②Dreamweaver ③Notepad ④P aint 。
+381. (134) 內容管理系統(Content Management System, CMS) 常用來製作入口網 站，何者屬於 CMS？ ①XOOPS ②Sleipnir ③Manbo ④PHP-Nuke 。
+382. (234) 何者屬於 TCP/IP 網路模型之應用層協定？ ①ICMP ②SMTP ③Telnet ④ FTP 。
+383. (123) 網頁表單處理程式可以使用何種語言來撰寫？ ①ASP ②PHP ③JSP ④F ORTRAN 。
+384. (12) 何者同時具備網頁製作及網站管理的功能？ ①Dreamweaver ②SharePoi nt ③Firework ④Flash 。
+385. (14) 設計網頁表單時，何種控制項為選項之應用？ ①radio ②combobox ③te xtarea ④checkbox 。
+386. (12) 何種 HTML 語法標籤(Tag)與文字格式設定有關？ ① 。
+387. (123) 何者為電子郵件的通訊協定？ ①IMAP ②POP ③SMTP ④IPX 。
+388. (14) 何者不是專業的網頁製作軟體？ ①Excel ②Dreamweaver ③phpDesigner ④PowerPoint 。
+389. (24) 何者是圖形的副檔名？ ①.xlsx ②.png ③.txt ④.jpg 。
+390. (14) 何者是數據通訊的傳輸媒介 (Medium)？ ①同軸電纜 ②數據機 ③基地台 ④光纖 。
+391. (24) 那些是 XML 文件的驗證技術？ ①XSLT ②XML Schema ③XQuery ④DT D 。
+392. (24) 關於 PHP 的描述那些正確？ ①PHP 屬於網頁程式語言，但尚無法支援資 料庫 ②較新版的 PHP 才可使用物件導向方式來設計與撰寫 ③要架設 PH P 網站伺服器最好利用 Windows 系統建置，其餘系統無法建置 ④PHP 可 直接嵌入在 HTML 文件中來強化網頁功能 。
+393. (124) 關於 PHP 的特色那些正確？ ①開放原始碼 ②嵌入式語言 ③各版本均可 利用物件導向方式來設計與撰寫 ④能與 MS SQL 資料庫結合 。
+394. (234) 關於 PHP 語法那些正確？ ①$tmp=10 ②//為單行註解 ③echo "字串資料 "; ④$a=$b++; 。
+395. (124) 關於 PHP 變數名稱那些正確？ ①$var ②$myFunction ③$class ④$myBr eak 。
+396. (123) 那些是 PHP 程式之流程控制？ ①if…else ②if…elseif…else ③do…whil e ④select…case 。
+397. (124) 關於 HTML 之敘述那些正確？ ①全名為 Hypertext Markup Language ② W3C 組織所制定之標準 ③可用來設計網頁並存取資料庫 ④不同廠牌的 瀏覽器所解析的結果可能有差異 。
+398. (24) 關於 HTML 網頁開發之敘述那些正確？ ①不可利用記事本軟體編寫 HT ML 網頁 ②使用專業的網頁設計軟體所設計之網頁，可再使用其它文字 編輯軟體修改 ③須事先經過編譯，才能由瀏覽器顯示結果 ④須注意引用 之圖文是否涉及智慧財產權 。
+399. (14) 關於 XHTML 標籤屬性之敘述那些正確？ ①標籤名稱與屬性間須至少一 個空白(Space)作間隔 ②屬性名稱大小寫皆可 ③屬性值如為字串，前後應 以雙引號括住，但雙引號可以省略 ④標籤若有多個屬性時，屬性與屬性 間須以空白作間隔 。
+400. (23) 關於 HTML 標籤的 color 屬性，那些是正確的表示法？ ①color=rgb(128, 196,255) ② ③ ④ 。
+401. (124) 關於 XML 的敘述那些正確？ ①XML 文件的內容，可轉換成 HTML 格式 ②XML 文件的基本單位為元素(element)，元素使用起始標記和結束標記 ③XML 文件無分英文大小寫 ④每個 XML 檔都有一個唯一的根(root)元 素，根元素沒有父(parent)元素 。
+402. (123) HTML 網頁中 標籤可設定那些項目？ ①網頁編碼信息 ②網頁自動換 頁 ③關鍵字 ④資料庫連結 。
+403. (123) 利用 XHTML 語法建立網頁表格，可能用到那些標籤？ ① ④ 。
+404. (234) 利用 XHTML 語法建立網頁框架那些正確？ ① ③ ④ ② ③ ② 。
+405. (123) 那些是 JavaScript 的基本資料型態？ ①Number ②String ③Boolean ④Ar ray 。
+406. (123) 利用 CSS 樣式設定段落文字顏 色為「藍色」那些正確？ ①p{color:#00F;} ②p{color:blue;} ③p{color:rgb(0,0,100%);} ④p{color:rgb(00,00,FF);} 。
+407. (123) 利用 CSS 樣式設定段落文字大小那些正確？ ①p{font-size:12px;} ②p{f ont-size:2em;} ③p{font-size:2;} ④p{font-size:2x-large;} 。
+408. (234) 利用 CSS 樣式設定網頁內元件之長度 (如：圖片寬度)，那些屬於絕對單 位？ ①px ②in ③cm ④mm 。
+1. (1) 何者可支援 64 位元雙 CPU、IPv4、IPv6 及提供 Microsoft AERO 操作介 面？ ①Windows 7 ②Linux ③Windows Mobile ④Symbian OS 。
+2. (2) Windows 7 會自動辨識硬體設備並安裝相關驅動程式，方便該硬體設備 能立即使用，這是 Windows 7 作業系統的何種特性？ ①DDE ②P&P ③P HP ④OLE 。
+3. (1) 何種作業系統的原始程式碼可開放供人下載、瀏覽、修改？ ①Linux ②S ymbian ③Mac OS X ④Windows 。
+4. (3) 關於作業系統之敘述何者正確？ ①具備圖形介面：Linux、MS-DOS ②開 放原始碼：Windows 10、Linux ③單人多工：Windows 10、Mac OS X ④網路作業系統：Windows 10、UNIX 。
+5. (1) 何者不能同一時間允許多個使用者，分別同時執行多個應用程式？ ①DO Page 42 of 56 S ②Windows Server ③UNIX ④Linux 。
+6. (1) 何者有提供電子白板的功能？ ①NetMeeting ②Skype ③Outlook Express ④CorelDRAW 。
+7. (4) 那一個指令可用來連線到 BBS 站？ ①ping ②ipconfig ③tracert ④telnet 。
+8. (3) 大部份的 BBS 網站會提供那一個帳號，讓網友以訪客的身分登入 BBS 站？ ①admin ②client ③guest ④new 。
+9. (4) 電腦中安裝何種檔案分享軟體最容易導致個人資料外洩？ ①瀏覽器 ②F TP 軟體 ③即時通訊軟體 ④P2P 軟體 。
+10. (1) 相關網路伺服器的功能說明何者錯誤？ ①DNS Server 用於網域名稱和 I P 位址之間的轉譯，同時具有防火牆的功能 ②FTP Server 提供匿名(Ano nymous)帳號，可以直接下載檔案 ③Proxy Server 具快取功能，可減低網 路流量的負載 ④Print Server 可以設定由多個使用者共用一台印表機 。
+11. (4) 關於 Google 服務的敘述何者正確？ ①Google 是著名的拍賣網站 ②iGoo gle 是將 iPod、iPhone、iTV 等 Apple 明星產品整合於 Google 的網路平 台上，使用者便於將眾多網路應用整合於個人化的網頁環境 ③Google Ea rth 是新的網路導航系統，藉此使用者得以進行連線互動遊戲 ④Google Map 提供使用者貼上地圖中某位置的照片，供他人在使用地圖功能時參 考欣賞，這是一種 Web 2.0 的應用 。
+12. (2) 軟體：Android、Windows 、Avira AntiVirus 、Kaspersky、Ubuntu、Fire fox 中，屬於系統軟體的共有幾種？ ①2 ②3 ③4 ④6 。
+13. (4) 何者不是 Windows 作業系統執行磁碟重組程式時會發生的現象？ ①屬 於同一個檔案的資料儘量集中儲存於鄰近的磁區 ②提升系統存取檔案的 效率 ③同時會更改檔案配置表 ④可同時清除駭客入侵程式 。
+14. (3) 何者在初次發佈時，即以開放原始碼的方式釋出，使得世界各地的愛好 者得以自由加入修改、研究其系統核心的行列？ ①Windows 7 ②Windo ws 10 ③Linux ④Palm OS 。
+15. (1) Google 開發的智慧型手機作業系統稱之為何？ ①Android ②OS/2 ③Sym bian OS ④Windows Mobile 。
+16. (2) Windows 會自動辨識硬體設備並安裝相關驅動程式，方便該硬體設備能 立即使用，這是 Windows 作業系統的何種特性？ ①DDE ②P&P ③PHP ④OLE 。
+17. (3) 關於網際網路服務之敘述何者不適當？ ①可在 BBS 上發表自己對時事的 看法 ②Skype 能與好朋友即時語音通訊 ③透過 VoIP 可在網路上看電影 和聽音樂 ④可以在 Google Maps 中看到住家附近的景色 。
+18. (3) 何種是使用電腦網路來進行轉帳及線上付款等功能？ ①電子錢包 ②遠 距教學 ③網路銀行 ④視訊會議 。
+19. (4) 何者提供網際網路電子地圖服務？ ①MSN ②Flickr ③WWW ④Google Maps 。
+20. (3) 網際網路上結合多種服務(如：Blog 及電子地圖)的技術稱之為何？ ①VR Page 43 of 56 ML ②HTML ③Mashup ④AJAX 。
+21. (1) 關於網路之敘述何者正確？ ①具 IA 功能的冷氣、冰箱等家電可以讓身在 遠方未到家的人，透過物聯網設備進行遠端遙控 ②防火牆的功能之一是 將動態 IP 模擬成固定 IP ③Proxy Server 是架設 GIS 服務的伺服器 ④所 有的電腦病毒會定期自動更新病毒碼，使得防毒軟體難以偵測到 。
+22. (3) 欲將 Blue Disk(BD)光碟中的照片上傳至部落格給網友分享之敘述何者錯 誤？ ①將 BD 光碟放入 BD Combo 中讀取資料 ②連線至所申請的 ISP ③使用 Hinet ADSL 8M/1M 上傳照片時，最快速度可達 8 Mbps ④使用無 線網卡透過 AP 來連線並瀏覽部落格中的內容 。
+23. (4) Google 網站使用何種伺服器來提供資料檢索服務？ ①視訊伺服器 ②列 印伺服器 ③郵件伺服器 ④資料庫伺服器 。
+24. (2) 用來描述「利用網路與媒體來突破空間的限制，將系統化設計的教材傳 遞給學習者的教學過程」的概念稱之為何？ ①電子商務 ②遠距教學 ③ 網路銀行 ④視訊會議 。
+25. (2) 勞動部入口網站之位址為 163.29.140.51，為什麼輸入 www.mol.gov.tw 可 進入該網站？ ①因為有 DHCP 自動找到該 IP 位址 ②因為有 DNS 能自動 轉譯網域名稱為 IP 位址 ③因為有 Proxy 能自動儲存該網站 ④因為有 NA T 能自動提供轉址服務 。
+26. (3) 開設販賣 3C 產品的網站是屬於何種電子商務模式？ ①C2C ②B2B ③B2 C ④B2G 。
+27. (4) 有些網站在使用者登入後會自動記錄其帳號密碼，請問這些資料會存放 在何處？ ①Proxy ②我的最愛 ③Temporary ④Cookie 。
+28. (4) 何者是正確的電腦病毒預防的觀念？ ①電腦病毒只會破壞軟體，不會破 壞硬體 ②為了資源共享，應該讓大家一起來使用電腦 ③只要有了防毒程 式，就可以高枕無憂，不怕中了電腦病毒 ④電腦病毒不但會破壞軟體， 也會破壞硬體 。
+29. (3) 何者不是一個完整的安全電子交易 (SET)架構之要項？ ①認證中心 ②商 店伺服器 ③商品 ④電子錢包 。
+30. (2) 何者無法辨識是否已被病毒感染？ ①檔案儲存容量改變 ②電源電壓變 小 ③螢幕出現亂碼 ④檔案儲存日期改變 。
+31. (4) 未使用網路服務，電腦網路卻一直不斷有存取動作，則其最可能感染了 何種病毒？ ①Word 巨集病毒 ②檔案型病毒 ③開機型病毒 ④特洛伊木馬 程式 。
+32. (1) 個人電腦如果已感染病毒時，何種處理方式較適宜？ ①進行解毒 ②重新 開機 ③更換硬碟 ④更換主記憶體 。
+33. (1) 關於電腦病毒防治之敘述何者錯誤？ ①只要將被感染之程式刪除就不會 再被感染 ②用乾淨無毒的開機光碟開機 ③不使用來路不明之磁片 ④電 腦上加裝防毒軟體 。
+34. (3) 何者是部落格的精簡版，有較為嚴格的字數限制，提供更簡單的發布流 Page 44 of 56 程和更隨意的寫作方式？ ①RSS ②WiKi ③Twitter ④LBS 。
+35. (2) 欲搜尋網路上檔名含有「生物」的.pdf 檔案，要輸入何關鍵字比較容易找 到檔案？ ①url:pdf 生物 ②filetype:pdf 生物 ③生物–pdf ④生物｜pdf 。
+36. (3) 何網站屬於「微網誌 (Micro blog)」？ ①Microsoft ②PHP-Nuke ③Twitte r ④MLB 。
+37. (1) 何種技術可以減輕編輯網頁的負擔，能夠更有效率的更換網頁樣式？ ① CSS ②Search Engine ③RSS ④GIS 。
+38. (2) 創用 CC(Creative Commons)授權條款不包括下列何種授權要素？ ①姓名 標示 ②商業性 ③禁止改作 ④相同方式分享 。
+39. (2) OpenOffice.org 透過何種授權條款提供免費、優質、開放的軟體使用方 式？ ①創用 CC ②GNU 通用公開執照 ③特別 301 條款 ④免費軟體授權 條款 。
+40. (4) 創用 CC(Creative Commons)以模組化的簡易條件，透過四大授權要素排 列組合，提供了幾種公眾授權條款？ ①三種 ②四種 ③五種 ④六種 。
+41. (4) Google 使用關鍵字「filetype」搜尋網路上的特定檔案格式，無法找到何 種類型的檔案？ ①.pdf ②.xls ③.doc ④.exe 。
+42. (2) 何者是透過 XML(eXtensible Markup Language) 特性所制定的格式，讓網 站的管理者可以把網頁內容傳給訂閱戶？ ①Flicker ②RSS ③Blog ④Pic asa 。
+43. (3) 關於電腦中毒的處理方式何者不正確？ ①連上網路更新病毒碼與程式 ②使用防毒軟體掃描全電腦，並且刪除病毒 ③開啟電腦所有的連接埠 ④將重要檔案備份至確定無毒的外接硬碟存放 。
+44. (2) 何種軟體會在未經使用者允許的情況下，自行安裝並蒐集使用者的個人 資訊、網頁瀏覽習慣？ ①自由軟體 ②間諜軟體 ③共享軟體 ④公用軟體 。
+45. (4) 何種方式是駭客利用常用字集用以破解密碼的手法？ ①網路釣魚 ②零 時差攻擊 ③連線劫持 ④字典攻擊 。
+46. (1) 有些電子郵件會附上假冒知名購物網站的超連結，以竊取使用者帳號與 密碼，這種入侵行為稱為？ ①網路釣魚 ②字典攻擊 ③暴力攻擊 ④社交 工程 。
+47. (3) 駭客常會冒充企業內部的員工，向系統管理員謊稱忘記使用者密碼，以 盜取帳號、密碼入侵網路，這種入侵方式稱之為何？ ①網路釣魚 ②SQL 注入 ③社交工程 ④零時差攻擊 。
+48. (2) 何種惡意程式的類型會偽裝成特殊工具程式吸引使用者下載，藉由這種 方式入侵使用者的電腦？ ①開機型病毒 ②特洛伊木馬程式 ③蠕蟲 ④巨 集病毒 。
+49. (1) 何種技術不必等音樂完全下載至電腦，就能直接在線上收聽音樂？ ①Str eaming ②P2P ③BBS ④HTML 。
+50. (4) 智慧家電上裝有可上網裝置，最有可能使用何種瀏覽器？ ①IE ②Firefo x ③Chrome ④Opera 。
+51. (4) Conficker 電腦病毒本身不具有破壞行為，但會自我複製程式並透過網路 快速感染至其他有漏洞的電腦，此為何種電腦病毒？ ①開機型病毒 ②特 洛伊木馬 ③巨集病毒 ④蠕蟲 。
+52. (4) 關於 cookie 之敘述何者錯誤？ ①可紀錄使用者瀏覽過的網站及上次拜訪 網站的時間 ②許多網站利用 cookie 的技術提供個人化服務 ③可能侵犯 了個人隱私 ④會在電腦中自行複製 。
+53. (4) 企業為保護內部資料避免被他人破壞或竊取，會在對外網路通道上安裝 何者？ ①HTTPS ②UPS ③SET ④Firewall 。
+54. (2) 關於網路釣魚(Phishing)之敘述何者錯誤？ ①主要目的在於竊取個人資 料 ②是散播電腦病毒的一種方式 ③常見手法為冒充知名的網站 ④Yaho o！奇摩的安全圖章正是為了防範網路釣魚而產生 。
+55. (2) 關於電腦科技應用之敘述何者錯誤？ ①遠距教學可降低學習上的空間限 制 ②行動條碼分為一維條碼和二維條碼 ③GPS 結合 GIS 技術可用來提供 即時交通資訊以供駕駛者參考 ④工廠自動化是指利用電腦協助工廠中的 設計、生產等工作 。
+56. (2) 欲將 4GB 的 WAV 檔案儲存到容量大小為 1GB 的音樂播放器中，應先將 WAV 檔案轉換為何種格式才能完全存入並可播放？ ①SWF ②MP3 ③D VD ④MPEG-2 。
+57. (1) 帶著行動設備到 24 小時便利商店透過無線網路連線查詢資料，表示該便 利商店有提供何種存取服務 (Access Services)？ ①WiFi ②ADSL ③ATM ④POS 。
+58. (2) UNIX 作業系統中，如果想要更改某一個檔案的名稱，可以使用那一個命 令？ ①rm ②mv ③more ④ls 。
+59. (2) UNIX 主要的實作語言為何？ ①Java ②C ③C++ ④Pascal 。
+60. (4) 在 Windows 中，不小心將儲存於 C 磁碟中的重要檔案刪除了，可利用下 列那一個視窗，來救回誤刪的檔案？ ①Windows 工作管理員 ②網路上的 芳鄰 ③檔案總管 ④資源回收筒 。
+61. (4) 若電腦中的資料夾出現手狀圖示，表示意義為何？ ①該資料夾名稱設定 錯誤 ②該資料夾為捷徑，可用來快速啟動某個程式 ③該資料夾中存放有 圖片檔案 ④該資料夾中存放的檔案，可被網路上的其他使用者讀取 。
+62. (2) 硬碟結構中的系統區，檔案的真實位置被完整記錄在那一區中？ ①硬碟 分割區 ②檔案配置區 ③根目錄區 ④啟動區 。
+63. (2) 一般狀況下啟動 Windows 後，所呈現的畫面為何？ ①檔案總管 ②桌面 ③控制台 ④我的電腦 。
+64. (2) Windows 作業系統中欲搜尋以 A 開頭的所有純文字檔，其最正確的搜尋 條件為何？ ①A？.txt ②A*.txt ③A*.* ④A*.doc 。
+65. (4) 購買個人電腦後，為了節省費用，可優先考慮使用何種作業系統？ ①Wi ndows 7 ②Mac OS X ③Windows Mobile ④Linux 。
+66. (2) 何者可以掌管電腦系統的運作，進行資源分配、排解衝突、維護電腦系 Page 46 of 56 統的穩定？ ①檔案系統 ②作業系統 ③電子試算表 ④文書處理系統 。
+67. (1) Windows 作業系統具有何種功能可自動偵測出硬體裝置？ ①PnP ②多工 作業 ③GUI 介面 ④程序管理 。
+68. (4) 何者不是 ADSL 所使用的技術？ ①QAM ②DMT ③CAP ④FM 。
+69. (2) RJ45 接腳共有幾對線？ ①2 ②4 ③6 ④8 。
+70. (4) 根據美國國家標準與技術研究院(NIST)對雲端的定義，何者不屬於其重 要特徵？ ①自助式隨需服務(On-demand Self-service) ②廣泛網路接取(B road Network Access) ③快速且具彈性(Rapid Elasticity) ④不可量測服務 使用狀況(Unable Measured Service) 。
+71. (2) Google App Engine 屬於何種雲端服務？ ①IaaS（Infrastructure as a Ser vice） ②PaaS（Platform as a Service ） ③SaaS（Software as a Service ） ④CaaS（Content as a Service ） 。
+72. (2) 雲端運算中，任何事物都可被視為一種服務，其最重要的基礎技術為何？ ①本機運算 ②虛擬化 ③異地備援 ④資料加密 。
+73. (1) Amazon EC2（Amazon Elastic Compute Cloud ）虛擬服務所採用的技術 為何？ ①Xen Hypervisor ②VMware vSphere Hypervisor ③Microsoft Hy per-V ④Oracle VM VirtualBox 。
+74. (1) 網路書店亞馬遜（Amazon）的 Amazon EC2（Amazon Elastic Compute Cloud），提供何種類型的虛擬化服務？ ①IaaS（Infrastructure as a Ser vice） ②PaaS（Platform as a Service ） ③SaaS（Software as a Service ） ④CaaS（Content as a Service ） 。
+75. (3) 提供雲端運算基礎設施即服務（Infrastructure as a Service, IaaS ）業者， 如：Amazon 及 AT&T，其計價方式為何？ ①以服務內容計價 ②以服務 時間分級計價 ③以儲存空間多寡計價 ④以使用人數方式計價 。
+76. (2) 提供雲端運算平台即服務（ Platform as a Service, PaaS ）業者，如：Mic rosoft 及 Google，其計價方式為何？ ①以服務內容計價 ②以服務時間分 級計價 ③以儲存空間多寡計價 ④以使用人數方式計價 。
+77. (4) 提供雲端運算軟體即服務（ Software as a Service, SaaS ）業者，如：Ora cle，其計價方式為何？ ①以服務內容計價 ②以服務時間分級計價 ③以 儲存空間多寡計價 ④以使用人數方式計價 。
+78. (1) 雲端運算的寄居架構 (Hosted Architecture) 需一個作業系統作為底層，其 底層稱之為何？ ①Host OS ②Guest OS ③Hypervisor ④Virtual Machine 。
+79. (2) 一般而言，雲端運算的寄居架構(Hosted Architecture)主要針對何者進行 虛擬化？ ①作業系統 ②硬體資源 ③應用程式 ④使用者介面 。
+80. (3) 何者不是虛擬化雲端環境興起後造成更多的安全問題？ ①更多系統漏洞 ②更容易利用相同環境進行測試，並找出平台弱點 ③更多的垃圾郵件 ④更多來自殭屍網路（BotNet）的攻擊與密碼破解 。
+81. (1) 何者不是雲端安全聯盟（Cloud Security Alliance, CSA ）所指出雲端運算 Page 47 of 56 可能遭遇的安全威脅？ ①使用者隱私無法保障 ②濫用或利用雲端運算 進行非法行為 ③不安全的使用者介面與應用程式介面（APIs） ④共享環 境所造成的議題 。
+82. (4) 雲端運算環境中，透過虛擬化技術後虛擬機器有那個項目不可動態配置 調整？ ①CPU 核心數 ②記憶體大小 ③硬碟儲存空間 ④南、北橋晶片組 。
+83. (14) 何者主要應用於智慧型手機、平板電腦、 GPS 車用導航電腦等之作業系 統？ ①Android ②Windows 7 ③Windows XP ④Windows Mobile 。
+84. (34) 關於電腦作業系統之敘述何者錯誤？ ①iMac 筆記型電腦中的 Mac OS 作 業系統是屬於單人多工作業系統 ②Linux 是屬於多人多工作業系統 ③大 多數智慧型手機的作業系統都使用 Windows 7 ④Windows Server 及 Win dows XP 均屬於網路伺服器作業系統 。
+85. (34) 關於 Linux 之敘述何者正確？ ①由美國 AT&T 公司的貝爾(Bell)實驗室發 展 ②以組合語言開發，可攜性強，可在不同的電腦平台上使用 ③使用者 可自行開發不同需求的作業系統 ④可提供圖形化使用者界面 。
+86. (123) 何者屬於 UNIX-like 的作業系統？ ①Solaris ②FreeBSD ③SCO UNIX ④DOS 。
+87. (24) 何者可用來作為電子商務網路伺服器的作業系統？ ①Safari ②UNIX ③ Opera ④Mac OS X Server 。
+88. (13) 何者是網際網路中常見的服務項目？ ①Facebook ②RFID ③VoIP ④RTC 。
+89. (1234) 何者是智慧型手機所採用之作業系統？ ①Android ②Samdroid ③BlackB erry OS ④Windows Phone 7 Series 。
+90. (14) 何者比較適合安裝在智慧型手機？ ①Windows Phone 8 ②UNIX ③Mac OS ④iOS 。
+91. (23) Windows 7 和 Ubuntu 作業系統之比較何者有誤？ ①皆具備圖形使用者介 面 ②皆可以免費使用 ③皆屬於 UNIX-like 作業系統，都可以安裝在個人 電腦中 ④皆可以使用中文 。
+92. (13) 作業系統之敘述何者有誤？ ①Windows 7 適用於智慧型手機等小型裝置 ②Mac OS 是 Apple 公司 Macintosh 電腦的作業系統，是最早採用圖形使 用者介面(GUI)的作業系統 ③Solaris 是一套 UNIX-like 的作業系統，最 大的特點是其原始碼公開且免費使用 ④UNIX 是美國 AT&T 公司所發展 的作業系統，適合多人多工作業 。
+93. (24) Linux 與 UNIX 之敘述何者有誤？ ①屬於多人多工作業系統 ②主要以組 合語言開發出來，可攜性強 ③部份 Linux 版本有 Live CD，可以不用安 裝於硬碟 ④具有文字及圖形使用者介面(GUI)，皆可直接安裝 Microsoft 應用軟體 。
+94. (12) 何者不屬於作業系統 (Operating System) ？ ①NFC ②BIOS ③UNIX ④An droid 。
+95. (124) 關於 Linux 作業系統之敘述何者正確？ ①由芬蘭的 Torvalds 設計完成 Page 48 of 56 ②結合 X Window 可提供優異的圖形使用者介面 ③屬於單人多工作業系 統 ④可攜性高且跨平台能力優 。
+96. (14) 何者可提供雲端記事本的服務？ ①Evernote ②Mixest ③Photovisi ④We Heart it 。
+97. (1234) 何者可提供雲端服務 (Cloud Services)？ ①HiCloud ②Gmail ③Google Do cuments ④Dropbox 。
+98. (234) 關於網路伺服器之敘述何者正確？ ①DNS Server 用於網域名稱和 IP 位 址之間的轉譯，同時具有防火牆的功能 ②FTP Server 提供匿名(Anonymo us)帳號，可以直接下載檔案 ③Proxy Server 具快取功能，可減低網路流 量的負載 ④Print Server 可以設定由多個使用者共用一台印表機 。
+99. (134) 關於 Web 2.0 之敘述何者正確？ ①強調網站能與瀏覽者互動 ②讓瀏覽者 擁有更高速的網路傳輸速度 ③讓瀏覽者更有參與(Participation) 的意願 ④讓瀏覽者對網站內容有所貢獻 。
+100. (1234) 關於 CMS 之敘述何者正確？ ①Content Management System 的簡稱 ②指 網站的發佈和管理系統 ③可以由網路下載一些具有新功能的模組來外掛 ④通常與資料庫管理系統進行連結 。
+101. (124) 何者的功用和 Skype 類似，皆提供線上語音通話的功能？ ①WhatsApp ②Viber ③Outlook ④LINE 。
+102. (123) 何者屬於網頁瀏覽器？ ①Google Chrome ②Apple Safari ③Mozilla Firef ox ④Adobe Reader 。
+103. (123) 關於網際網路服務之敘述何者正確？ ①Yahoo!奇摩的拍賣網站的通訊模 式是屬於主從式網路 ②FTP 下載網站是屬於主從式架構 ③Mymusic、e Mule 等下載分享軟體形成的架構是點對點式架構 ④台鐵的訂票系統是 屬於點對點式的架構 。
+104. (24) 何種網際網路的服務，提供公開的溝通平台，可即時發表自己的看法、 提出問題、或回答別人問題？ ①HTML ②BBS ③E-mail ④Facebook 。
+105. (124) 何種軟體可以讓使用者在網路上即時傳遞訊息及聊天？ ①LINE ②WeCh at ③DHCP ④WhatsAPP 。
+106. (234) 關於電腦病毒之敘述何者正確？ ①主記憶體有電腦病毒，複製無電腦病 毒的檔案到隨身碟，並不會使隨身碟中毒 ②中毒的檔案，由於病毒程式 的寄居，檔案通常會變大 ③檔案型病毒，將隨著檔案的執行，載入記憶 體 ④開機型病毒，開機後，即有病毒侵入記憶體 。
+107. (134) 關於預防電腦病毒之敘述何者正確？ ①常做備份 ②常使用隨身碟與他 人交流各種軟體 ③常用掃毒程式檢查，發現病毒即立即清除 ④開機時執 行偵毒程式 。
+108. (24) 關於電腦病毒之敘述何者錯誤？ ①有可能使程式無法執行 ②電腦病毒 一定具有自我複製與散播的能力 ③單純瀏覽網頁也有可能會中毒 ④所 有的病毒感染電腦後一定會立刻發作 。
+109. (12) 何者是一般電腦病毒的特性？ ①可能會駐留在主記憶體中 ②有些具有 Page 49 of 56 特殊的隱秘攻擊或破壞能力 ③關機或重開機後會自動消失 ④皆不具自 我拷貝的能力 。
+110. (123) 關於電腦病毒之敘述何者正確？ ①病毒可概分為開機型、檔案型及混合 型等類型 ②病毒感染一般分為侵入、潛伏、發病及傳佈四階段 ③病毒防 治之最佳策略為不使用及複製來路不明之隨身碟 ④以正常的硬碟開機， 再讀取一被開機型病毒感染的隨身碟之資料檔，亦會被感染病毒 。
+111. (134) 何者是典型特洛伊木馬(Trojan)的特徵？ ①會竊取資料 ②一定會自我複 製 ③不會感染其他檔案 ④藉由開啟通訊埠讓駭客入侵 。
+112. (234) 關於 Web 2.0 之敘述何者正確？ ①是一種較新的瀏覽器版本 ②維基百科 採用 Web 2.0 的服務架構 ③以 WWW 做為平台 ④具資源共享及免費服務 的特色 。
+113. (12) 何種網頁瀏覽器可應用在 iPhone、iPod touch 與 Mac PC 上？ ①Safari ②Opera ③Tizen ④Samdroid 。
+114. (24) 何者為提供免費或付費數位照片儲存、分享方案之線上服務，是一種網 路社群平台的應用？ ①CSS ②Facebook ③RSS ④Flicker 。
+115. (1234) 關於資訊安全之敘述何者正確？ ①要定期安裝系統修補程式 ②使用 P2P 軟體，增加電腦病毒入侵機會 ③網路傳輸重要資料一定要進行加密 ④定 期備份資料，並進行異地備份 。
+116. (1234) 關於電腦病毒之敘述何者正確？ ①蠕蟲並不會對電腦硬體直接造成傷害 ②開機型病毒會感染磁碟的啟動磁區 ③木馬程式可能造成電腦無故當 機 ④安裝防毒軟體後應定期更新病毒碼才能有效防範病毒入侵 。
+117. (23) 關於平板電腦之敘述何者錯誤？ ①體積介於筆記型電腦和智慧型手機之 間 ②不具觸控功能 ③僅能搭配 Android 系統 ④具備無線通訊能力 。
+118. (13) 何者是微型伺服器(Microserver)平台？ ①Denlow ②Facebook ③Edisonv ille ④Line 。
+119. (234) 在 Windows 作業系統中，那些內容會儲存在存取控制清單（ Access Cont rol List）內？ ①註冊值或機碼 ②NTFS 資料夾 ③Active Directory 使用 者 ④登入權限 。
+120. (12) 何者是作業系統的名稱？ ①LINUX ②OS/2 ③HTTP ④BBS 。
+121. (13) 何者不具圖形化介面的作業系統？ ①Word ②GNU/Linux ③DOS ④Wind ows 10 。
+122. (12) 專有名詞中英對照何者正確？ ①圖形使用者介面：GUI ②開放原始碼： Open Source ③網路作業系統：OS ④電子郵件：WWW 。
+123. (123) 使用 Windows 的網路，可以分享那些項資源？ ①電腦上的檔案 ②電腦 上的印表機 ③電腦上的資料夾 ④電腦上的記憶體(RAM) 。
+124. (14) 何者不具備動態連結函式庫及支援動態資料交換之功能？ ①IDE ②OCX ③OLE ④OEM 。
+125. (123) 作業系統處理程式執行順序排程(Process Scheduling)中，何者屬於 Proce ss Scheduling 方法？ ①First In First Out ②Shortest ③Round Robin ④Ra Page 50 of 56 ce Condition 。
+126. (124) 關於作業系統的敘述何者正確？ ①MS-DOS 為單人單工作業系統 ②Win dows10 為單人多工作業系統 ③UNIX 為單人多工作業系統 ④Linux 為多 人多工作業系統 。
+127. (134) 那些作業系統安裝於智慧型手機中，可直接看 YouTube 影片及玩 Facebo ok？ ①iOs ②Windows 7 ③Symbian OS ④Android 。
+1. (3) 入侵偵測系統(IDS, Intrusion Detection System) 具有何種功能？ ①防止電 腦病毒感染電腦中的檔案 ②預防網路詐騙 ③偵測可能危害內部網路安全 的威脅 ④防止使用者連上含有惡意軟體的網站 。
+2. (1) 何項網路裝置的主要功能在保護內部網路，以阻擋遠端使用者的非法使 用？ ①防火牆(Firewall) ②垃圾郵件過濾系統(Spam Filtering System) ③ 特洛伊木馬(Trojan) ④防毒軟體(Antivirus) 。
+3. (1) 何者對於防範惡意軟體的入侵最有幫助？ ①安裝防毒軟體 ②提高瀏覽器 的安全性 ③採用 SSL 技術 ④採用 SET 技術 。
+4. (1) 關於防火牆之敘述何者正確？A.主要功能是過濾封包 B.可以防止 Hacker 從特定連接埠入侵電腦 C.可搜尋已感染病毒的電腦並掃除病毒 D.只能用 硬體來完成防火牆的功能 ①AB ②CD ③BC ④ABD 。
+5. (2) 何種軟體可過濾、監視網路上的封包狀況，達到保護電腦？ ①防毒軟體 ②防火牆 ③瀏覽器 ④即時通 。
+6. (1) 何種網路設備或軟體可保護內部網路，以阻擋遠端使用者的非法使用？ ①防火牆(Firewall) ②垃圾郵件過濾系統(Spam Filtering System) ③特洛 伊木馬(Trojan) ④集線器(Hub) 。
+7. (2) 一般大眾經常收到許多企業利用電子郵件濫發廣告文宣的電子郵件，此類 郵件統稱為何？ ①行銷郵件 ②垃圾郵件 ③病毒郵件 ④惡意郵件 。
+8. (1) 關於防火牆之敘述：A.主要功能是過濾封包、B.可以防止 Hacker 從特定連 接埠入侵電腦、C.可搜尋已感染病毒的電腦並掃除病毒、D.只能用硬體來 完成防火牆的功能；何者正確？ ①AB ②CD ③BC ④ABD 。
+9. (2) 關於「妥善保管客戶資料，確保客戶相關資料及客戶隱私的保密性」是基 於何項原則之表現？ ①守法原則 ②保密原則 ③能力原則 ④誠信原則 。
+10. (3) 關於「系統在檢查使用者的密碼設定時，會作某些特性的限制或規定」之 敘述何者錯誤？ ①密碼有效性 ②禁止更新密碼時延用舊密碼 ③禁止不同 使用者的密碼相同 ④密碼必須有一定困難度 。
+11. (2) 關於「資料外洩」是破壞了「資訊安全」中的那一面向？ ①可用性(Avail ability) ②機密性(Confidentiality) ③不可否認性(Non-repudiation) ④完整 性(Integrity) 。
+12. (4) 關於電腦系統安全之敘述不包括何者？ ①設定密碼(Password) ②設定存 取權限(Access Right) ③將硬體設備地點予以管制進出 ④將資料複製給他 人保管 。
+13. (3) 人工檢查資料輸入是否正確，是屬於何種安全管理？ ①行政安全 ②通訊 安全 ③資料安全 ④程式安全 。
+14. (1) 關於資訊安全中系統備援之描述何者正確？ ①重要系統設備(含軟、硬體) 必須有備援措施 ②備援方法必須以 1：1 對應的方式才可以 ③遠端備援方 式由於需佔空間且人力支援不易，故不必考慮 ④備援需花費更多費用，因 此不必考慮備援 。
+15. (3) 何者不是「密碼學演算法」？ ①DES ②IDEA ③ZIP ④RSA 。
+16. (1) 何者不是「資料隱碼攻擊(SQL Injection) 」的特性？ ①為使用者而非開發 程式者造成 ②造成資料庫資料遭竄改或外洩 ③主要原因為程式缺乏輸入 驗證 ④可跳過驗證並入侵系統 。
+17. (3) 何者不是密碼學原理最主要的應用？ ①數位簽章(Digital Signature) ②數 位浮水印(Digital Watermarking) ③藍牙(Bluetooth)技術 ④公開金鑰基礎 建設(Public Key Infrastructure ，PKI) 。
+18. (2) 何者不是資訊安全研究領域中，為維護資料安全的技術性防護方法？ ①密 碼轉換 ②類比簽章 ③通行碼 ④授權矩陣 。
+19. (2) 何者不是數位簽名的功能？ ①証明了信的來源 ②做為信件分類之用 ③可 檢測信件是否遭竄改 ④發信人無法否認曾發過信 。
+20. (3) 何者不是「虛擬私人網路(VPN，Virtual Private Network) 」採用的技術原 理？ ①穿隧技術 ②加解密技術 ③備援技術 ④使用者與設備身份鑑別技 術 。
+21. (1) 何者可用來存放與管理通訊錄及信用卡資料，以確保交易時各項資料的隱 密性與安全性？ ①電子錢包 ②商店伺服器 ③付款轉接站 ④認證中心 。
+22. (4) 何者是好的電子郵件使用習慣？ ①收到信件趕快打開或執行郵件中的附 檔 ②利用電子郵件傳遞機密資料 ③使用電子郵件大量寄發廣告信 ④不輕 易將自己的電子郵件位址公佈於網站中 。
+23. (2) 何者是數位浮水印技術的主要應用範圍？ ①上網撥接 ②電子商務的安全 查核 ③網域名稱的查詢 ④使用者管理 。
+24. (1) 何者是錯誤的「系統安全措施」？ ①系統操作者統一保管密碼 ②資料加 密 ③密碼變更 ④公佈之電子文件設定成唯讀檔 。
+25. (1) 何項措施為災後復原的首要任務？ ①環境重置 ②資料重置 ③系統重置 ④軟體重置 。
+26. (3) 何者不是管制進入電腦系統之措施？ ①名牌 ②密碼 ③不斷電系統 ④門 鎖 。
+27. (4) 何者不合乎資訊安全之概念？ ①設定檔案存取權限，如只允許讀取、不准 寫入 ②設定檔案密碼保護，僅擁有密碼之人才得以使用 ③隨時將檔案備 份，以備檔案資料被破壞時可回存使用 ④設定檔案資料公開，任何人皆可 Page 52 of 56 以使用 。
+28. (1) 資訊安全種類中，關於媒體出入管制是屬於何種工作項目？ ①實體安全 ②資料安全 ③程式安全 ④系統安全 。
+29. (3) 關於安裝作業系統的安全，何者最不適當？ ①作業系統軟體的合法性 ② 作業系統修補套件的安裝處理 ③作業系統軟體的破解版備份 ④預設環境 設定中不安全因素的修改檢驗 。
+30. (2) 何者可用來過濾、監視網路上的封包與通聯狀況，以達到保護電腦的軟 體？ ①防毒軟體 ②防火牆 ③瀏覽器 ④壓縮軟體 。
+31. (2) 可過濾、監視網路上的封包與通聯狀況，達到保護電腦的軟體為何？ ①防 毒軟體 ②防火牆 ③瀏覽器 ④即時通 。
+32. (4) 任何資訊系統之運作都免不了會發生災變或差錯，如果發生不幸希望能馬 上採取復原措施，使損失減至最小，因此在系統規劃時均有復原計劃，以 備事故發生時之緊急救濟，何項描述是錯誤的說法？ ①復原計劃必須時時 加以演習，使參與作業人員熟練復原處理作業，以爭取時效 ②對於備份的 復原資料應妥為準備 ③應尋找後備支援之電腦中心，並與其訂立支援合 約，以為應變支援之需 ④復原計畫必須評估其所花費之成本，如果企業能 容忍風險，只要事前將復原計畫教育所有作業人員，使其心生警惕，就可 不必做實地演習，以節省成本 。
+33. (4) 在分散式開放系統下的安全管理系統中，何者不是該系統至少須具備之功 能？ ①驗證(Authentication) ②授權(Authorization) ③稽查(Auditing) ④回 答(Answering) 。
+34. (4) 系統安全防護作業中，何種技術管理規劃最不妥當？ ①規劃安全稽核系統 ②採用防毒軟體 ③安排系統管理者接受訓練 ④規定密碼限定為有意義之 名詞 。
+35. (3) 在做遠端資料傳輸時，為避免資料被竊取，可以採用何種保護措施？ ①將 資料壓縮 ②將資料解壓縮 ③將資料加密 ④將資料解密 。
+36. (2) 在資料通訊系統中，資料傳輸時，為了避免資料被竊取而外洩，應做何種 防範措施？ ①將資料做錯誤檢查 ②將資料加密 ③將資料解密 ④將資料 解壓縮 。
+37. (2) 何種觀念是在資訊安全系統中，防止他人透過任何方式竊取資料，在伺服 器端設定使用者權限？ ①監視性 ②資料存取控制 ③獨立性 ④識別 。
+38. (2) 在資訊安全系統的架構中，何者是屬於偵測性質？ ①識別(Identification) ②監視性(Surveillance) ③獨立性(Isolation) ④資料取得控制(Access Contr ol) 。
+39. (4) 如何最有效建立員工資訊安全意識？ ①從工作中建立 ②懲罰 ③獎勵 ④ 定期提醒與教育訓練 。
+40. (2) 關於「弱點法則」之敘述何者有誤？ ①舊的弱點攻擊重新發生的主要原 因，多來自組織單位重新安裝佈署機器後未能立即修補 ②有心人士利用弱 點的入侵攻擊行為，大約只有 20%的少部分比率是發生在重要弱點的頭二 Page 53 of 56 個半衰期 ③安全弱點半衰期指的是一個重要的弱點，每隔一般時間後，發 現有此弱點的系統將會減半 ④常見的嚴重弱點一年內會被另一個新發現 的弱點取代 。
+41. (3) 關於備份資料儲存之位置何者最不適當？ ①存放於另外一棟堅固之建築 物 ②存放於專業資料保管公司 ③存放於同一間辦公室內 ④存放於防火防 震之堅固保險櫃內 。
+42. (1) 關於資訊人員安全管理措施之敘述何者有誤？ ①單位中每一個人都可操 作一部電腦 ②對操作人員做好適當之教育訓練 ③製作識別卡以做為人員 之進出管制 ④將已印出但無用之報表銷毀 。
+43. (3) 關於資訊安全中公開鑰匙碼 (Public Key)法之敘述何者有誤？ ①可減少因 傳送 key 而發生洩密之情形 ②送方與受方各有一 key 用來編碼與解碼 ③ 接收方的 key 應讓送方瞭解以供轉換 ④接受方的 key 不必由傳送方傳送 。
+44. (1) 關於資訊安全中系統設備備援之敘述何者正確？ ①重要系統設備(含軟、 硬體)必須有備援措施 ②備援方法必須以 1:1 對應方式才可 ③遠端備援方 式由於需佔空間且人力支援不易，故不必考慮 ④備援需花費更多費用，因 此不必考慮備援 。
+45. (4) 關於資訊安全中電子簽名保密技術之敘述何者正確？ ①電子簽名之技術 不需解碼 ②若以設計問題的方法而論，電子簽名較公開鑰匙密碼法簡便 ③電子簽名乃是採用光筆、滑鼠等工具簽名，以供辨識 ④電子簽名乃是利 用數字來代替票據必須由人親自簽名的方法 。
+46. (3) 關於電腦安全防護的措施中，何者是同時針對實體及資料的防護措施？ ①保留日誌檔 ②管制上機次數與時間 ③不斷電系統 ④人員定期輪調 。
+47. (2) 何者是不正確的「系統安全」措施？ ①加密保護機密資料 ②系統管理者 統一保管使用者密碼 ③使用者不定期更改密碼 ④網路公用檔案設定成 「唯讀」 。
+48. (2) 完善的資訊安全系統，應在使用者、資料、作業系統和電腦來源中設立足 夠的關卡，以防止使用者透過程式去存取不是他自己的資料，這種是屬於 何種概念？ ①獨立性(Isolation) ②資料取得控制(Access Control) ③監視 性(Surveillance) ④識別(Identification) 。
+49. (2) 災害復原階段，首要的工作為何？ ①軟體的重置 ②環境的重置 ③系統的 重置 ④資料的重置 。
+50. (2) 災變復原計劃，那些人員參與較恰當？ ①程式設計人員 ②組織全員 ③系 統操作人員 ④資料處理人員 。
+51. (2) 系統安全漏洞發生的主要原因為何？ ①硬體速度過慢 ②系統程式開發之 疏失 ③電腦儲存空間不足 ④電源供應不穩定 。
+52. (3) 身分證字號的最後一碼是用來做為何種檢驗？ ①範圍 ②總數 ③檢查號碼 的正確性 ④一致性 。
+53. (3) 防火牆(Firewall)的主要作用為何？ ①防火 ②防搶 ③防止資料被竊取及 病毒感染 ④硬體上的保護設施 。
+54. (1) 定期性的資料備份，是防止資料意外毀壞的最佳方法，在整批處理系統下 做異動處理時，常保留幾代的歷史資料？ ①3 代 ②4 代 ③1 代 ④2 代 。
+55. (2) 政府機關公務內部網路系統資訊遭竊的最主要威脅來自何者？ ①社交工 程與位址假造 ②社交工程與零時差攻擊結合 ③國際恐怖份子與國內政治 狂熱者 ④實體安全防護不佳 。
+56. (3) 為了防止資料庫遭破壞後無法回復，除了定期備份外，尚須進行那一項措 施？ ①管制使用 ②人工記錄 ③隨時記錄變動日誌(Log)檔 ④程式修改 。
+57. (1) 為了維護資料的安全，何者敘述不正確？ ①為避免增加管理人員的困擾， 系統密碼一旦設定便不宜任意變更 ②系統資料必須定時予以備份 ③備份 資料應與系統設備及應用系統分開放置 ④應用系統必須設置專責人員，並 設置使用日誌詳細記錄使用情形 。
+58. (4) 為了讓郵件在傳送過程中不被駭客破壞，可以藉由電子郵件那一項功能來 達成？ ①壓縮 ②反駭客 ③密件副本 ④加密 。
+59. (2) 訂定災害防治標準作業程序及重要資料的備份，是屬何種時期所作的工 作？ ①過渡時期 ②災變前 ③災害發生時 ④災變復原時期 。
+60. (4) 重要資料欄的更新作業，為保留其過程的相關資料，以供核驗防範不法行 為，可以利用何種檔案？ ①密碼檔 ②異動檔 ③備份檔 ④日誌檔 。
+61. (4) 那一個不屬於資訊安全的威脅？ ①人為疏失 ②天災 ③機件故障 ④讀取 資料 。
+62. (3) 密碼術(Cryptography)中，替代(Substitution)是基本的加密(Encryption)技 術之一，若明碼形式之本文為 MADAM，何者不是替代技術加密後所產生 的密文？ ①1301040113 ②NBEBN ③AMADM ④NZWZN 。
+63. (1) 從資訊安全的角度而言，那一種作法是不適當的？ ①轉寄信件時將前寄件 人的收件名單引入信件中 ②不在網站中任意留下自己的私密資料 ③不使 用電子郵件傳遞機密文件 ④使用防毒軟體保護自己的電腦 。
+64. (3) 尋找第二儲存空間是資料備份的安全做法，這種做法不包括何者？ ①與專 業儲存公司合作 ②使用防火保險櫃 ③儲存在同一辦公室內另一部電腦上 ④存放在另外一棟堅固之建築物上 。
+65. (4) 筆記型電腦常使用何種保全設施進行身份認證？ ①SD 卡 ②CF 卡 ③PCM CIA 卡 ④Smartcard 。
+66. (3) 資料安全的性質為何？ ①純屬技術問題，無關管理問題 ②純屬管理問 題，無關技術問題 ③不但是技術問題，且是管理問題 ④既不是技術問題， 也不是管理問題 。
+67. (1) 資料錯誤檢核方式中，何者最不常用？ ①存取權限檢查(Access Right Ver ification) ②檢查號碼檢查(Check Digit) ③型態檢查(Type Check) ④範圍 檢查(Range Check) 。
+68. (4) 資訊安全中針對人為因素所做的事前預防措施，那一項是不必要的？ ①門 禁管制 ②技術性管制 ③內部管制 ④網路資料不開放 。
+69. (1) 資訊系統的災害，何者最嚴重？ ①資料喪失 ②主管離職 ③硬體故障 ④軟 Page 55 of 56 體喪失 。
+70. (4) 電子簽章法中，所稱「加密」通常是利用那一種方式來達成？ ①CA 憑證 ②宇宙放射法則 ③Unicode 法 ④數學演算法，將電子文件以亂碼方式處理 。
+71. (1) 對於「零時差攻擊(Zero-Day Attack)」的描述，何者正確？ ①在軟體弱點 被發現，但尚未有任何修補方法前所出現的對應攻擊行為 ②在午夜 12 點 (零點)發動攻擊的一種病毒行為 ③弱點掃描與攻擊發生在同一天的一種 攻擊行為 ④攻擊與修補發生在同一天的一種網路事件 。
+72. (2) 對於一個安全的祕密金鑰密碼系統而言，何者敘述不是該系統提供之功 能？ ①保護資訊機密 ②鑑定發方之身分 ③自動修正資訊內容 ④確保資 訊完整性 。
+73. (1) 對於使用可攜式儲存媒體(光碟或隨身碟)的風險描述，何者有誤？ ①只要 不開啟其中內容，就算已連接到電腦上，也是安全的 ②容易將電腦病毒、 木馬程式傳回自己或其他的電腦 ③媒體容易遺失 ④儲存在其中的資料易 遭竊取或竄改 。
+74. (34) 關於網路安全之敘述何者錯誤？ ①近年來駭客攻擊的主要目的經常是謀 取不法利益 ②惡意軟體通常藉由網際網路散播 ③阻斷服務是一種誘騙電 腦使用者透過電子郵件或網站提供個人資訊的手段 ④入侵偵測系統可以 防止使用者連上含有惡意軟體的網站 。
+75. (134) 關於資訊安全之敘述何者正確？ ①經常備份檔案資料是做到資訊安全的 一種方法 ②只要不收陌生人所寄送之電子郵件，即可避免感染病毒 ③入 侵偵測系統可以偵測出來自外部危害電腦安全的威脅 ④設置連線網路之 防火牆無法有效防止公司不肖員工對內部網路的侵害 。
+76. (24) 關於防火牆之敘述何者錯誤？ ①會將不符合安全規則的資料封包丟棄 ② 無法防止電腦病毒從特定連接埠入侵電腦 ③可用硬體或軟體來完成防火 牆的功能 ④可搜尋已感染病毒的電腦並掃除病毒 。
+77. (123) 何者是網路安全威脅？ ①個資外洩 ②駭客入侵 ③網路釣魚 ④網路團購 。
+78. (24) 何者不是防毒軟體？ ①Avast! ②Twitter ③Kaspersky ④Partition Magic 。
+79. (1234) 何者是選用軟體防火牆應考慮的重點？ ①主機作業系統 ②應用系統的可 能衝突 ③穩定度 ④防火牆的效能 。
