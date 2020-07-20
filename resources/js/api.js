@@ -8,8 +8,8 @@ export default {
             }
         });
     },
-    getQuestions: function(id,data){
-        return axios.get(`/api/category/${id}`,data).then(res => {
+    getResult: function(id){
+        return axios.get(`/api/category/${id}`).then(res => {
             if(res.status){
                 return res.data;
             }

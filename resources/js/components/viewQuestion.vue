@@ -19,8 +19,6 @@
 </template>
 
 <script>
-    import api from '../api';
-
     export default {
         data(){
             return {
@@ -32,7 +30,7 @@
         mounted() {
             let categoryId = this.$route.params.id;
 
-            api.getQuestions(categoryId).then(res => {
+            api.getResult(categoryId).then(res => {
                 this.data = res;
                 this.maxPage = this.data.questions.length / 5;
 

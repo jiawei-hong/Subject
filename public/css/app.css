@@ -10934,3 +10934,19 @@ a.text-dark:focus {
   margin-top: 15px;
 }
 
+.btn {
+  margin-left: 5px;
+}
+
+.btn-dark {
+  width: 50px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  text-align: left;
+}
+

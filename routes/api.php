@@ -15,5 +15,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::namespace('api')->group(function(){
     Route::get('/category','ApiController@getCategories');
-    Route::get('/category/{id}','ApiController@getQuestions');
+    Route::get('/category/{id}','ApiController@getResult');
 });

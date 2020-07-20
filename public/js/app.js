@@ -1908,7 +1908,6 @@ module.exports = {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../api */ "./resources/js/api.js");
 //
 //
 //
@@ -1940,21 +1939,40 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
-      mode: 'View',
-      categories: [],
-      categoriesId: 1
+      data: [],
+      currentIndex: 0
     };
   },
   mounted: function mounted() {
     var _this = this;
 
-    _api__WEBPACK_IMPORTED_MODULE_0__["default"].getCategories().then(function (res) {
-      _this.categories = res;
+    var categoryId = this.$route.params.id;
+    api.getResult(categoryId).then(function (res) {
+      _this.data = res;
+      _this.currentIndex = 0;
+      console.log(res);
     });
+  },
+  methods: {
+    changeCurrentIndex: function changeCurrentIndex(index) {
+      this.currentIndex = index;
+    }
   }
 });
 
@@ -1969,7 +1987,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../api */ "./resources/js/api.js");
 //
 //
 //
@@ -2001,7 +2018,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -2013,7 +2029,7 @@ __webpack_require__.r(__webpack_exports__);
   mounted: function mounted() {
     var _this = this;
 
-    _api__WEBPACK_IMPORTED_MODULE_0__["default"].getCategories().then(function (res) {
+    api.getCategories().then(function (res) {
       _this.categories = res;
     });
   }
@@ -2030,7 +2046,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../api */ "./resources/js/api.js");
 //
 //
 //
@@ -2051,7 +2066,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -2064,7 +2078,7 @@ __webpack_require__.r(__webpack_exports__);
     var _this = this;
 
     var categoryId = this.$route.params.id;
-    _api__WEBPACK_IMPORTED_MODULE_0__["default"].getQuestions(categoryId).then(function (res) {
+    api.getResult(categoryId).then(function (res) {
       _this.data = res;
       _this.maxPage = _this.data.questions.length / 5;
       console.log(res);
@@ -37623,111 +37637,87 @@ var render = function() {
         _vm._v("\n            Subject Exercise\n        ")
       ]),
       _vm._v(" "),
-      _c(
-        "div",
-        { staticClass: "card-body" },
-        [
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { attrs: { for: "cateogries" } }, [
-              _vm._v("選擇題庫：")
-            ]),
-            _vm._v(" "),
-            _c(
-              "select",
+      _c("div", { staticClass: "card-body" }, [
+        _c(
+          "div",
+          { staticClass: "form-group" },
+          _vm._l(_vm.data.questions, function(item, index) {
+            return _c(
+              "button",
               {
-                directives: [
-                  {
-                    name: "model",
-                    rawName: "v-model",
-                    value: _vm.categoriesId,
-                    expression: "categoriesId"
-                  }
-                ],
-                staticClass: "form-control",
-                attrs: { id: "cateogries" },
+                staticClass: "btn btn-dark",
                 on: {
-                  change: function($event) {
-                    var $$selectedVal = Array.prototype.filter
-                      .call($event.target.options, function(o) {
-                        return o.selected
-                      })
-                      .map(function(o) {
-                        var val = "_value" in o ? o._value : o.value
-                        return val
-                      })
-                    _vm.categoriesId = $event.target.multiple
-                      ? $$selectedVal
-                      : $$selectedVal[0]
-                  }
-                }
-              },
-              _vm._l(_vm.categories, function(item) {
-                return _c("option", { domProps: { value: item.id } }, [
-                  _vm._v(
-                    "\n                        " +
-                      _vm._s(item.name) +
-                      "\n                    "
-                  )
-                ])
-              }),
-              0
-            )
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { attrs: { for: "mode" } }, [_vm._v("選擇模式：")]),
-            _vm._v(" "),
-            _c(
-              "select",
-              {
-                directives: [
-                  {
-                    name: "model",
-                    rawName: "v-model",
-                    value: _vm.mode,
-                    expression: "mode"
-                  }
-                ],
-                staticClass: "form-control",
-                attrs: { id: "mode" },
-                on: {
-                  change: function($event) {
-                    var $$selectedVal = Array.prototype.filter
-                      .call($event.target.options, function(o) {
-                        return o.selected
-                      })
-                      .map(function(o) {
-                        var val = "_value" in o ? o._value : o.value
-                        return val
-                      })
-                    _vm.mode = $event.target.multiple
-                      ? $$selectedVal
-                      : $$selectedVal[0]
+                  click: function($event) {
+                    return _vm.changeCurrentIndex(index)
                   }
                 }
               },
               [
-                _c("option", { attrs: { value: "View", selected: "" } }, [
-                  _vm._v("查看")
-                ]),
-                _vm._v(" "),
-                _c("option", { attrs: { value: "Exercise" } }, [_vm._v("練習")])
+                _vm._v(
+                  "\n                    " +
+                    _vm._s(index + 1) +
+                    "\n                "
+                )
               ]
             )
+          }),
+          0
+        )
+      ])
+    ]),
+    _vm._v(" "),
+    _vm.data.questions
+      ? _c("div", { staticClass: "card" }, [
+          _c("div", { staticClass: "card-header text-center" }, [
+            _vm._v("\n            題目\n        ")
           ]),
           _vm._v(" "),
-          _c(
-            "router-link",
-            {
-              staticClass: "btn btn-success btn-block",
-              attrs: { to: _vm.mode + "/" + _vm.categoriesId }
-            },
-            [_vm._v("查看題目")]
-          )
-        ],
-        1
-      )
-    ])
+          _c("div", { staticClass: "card-body text-center" }, [
+            _c("p"),
+            _c("h2", [
+              _vm._v(
+                "\n                    " +
+                  _vm._s(_vm.data.questions[_vm.currentIndex].content) +
+                  "\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p"),
+            _vm._v(" "),
+            _c("div", [
+              _c(
+                "ul",
+                _vm._l(_vm.data.options[_vm.currentIndex], function(
+                  item,
+                  index
+                ) {
+                  return _c("li", [
+                    _c("input", {
+                      attrs: {
+                        type:
+                          _vm.data.answer[_vm.currentIndex].length > 1
+                            ? "checkbox"
+                            : "radio",
+                        id: _vm.currentIndex
+                      },
+                      domProps: { value: item.value }
+                    }),
+                    _vm._v(" "),
+                    _c("label", { attrs: { for: _vm.currentIndex } }, [
+                      _vm._v(
+                        "\n                            " +
+                          _vm._s(item.value) +
+                          "\n                        "
+                      )
+                    ])
+                  ])
+                }),
+                0
+              )
+            ])
+          ])
+        ])
+      : _vm._e()
   ])
 }
 var staticRenderFns = []
@@ -53187,8 +53177,8 @@ __webpack_require__.r(__webpack_exports__);
       }
     });
   },
-  getQuestions: function getQuestions(id, data) {
-    return axios__WEBPACK_IMPORTED_MODULE_0___default.a.get("/api/category/".concat(id), data).then(function (res) {
+  getResult: function getResult(id) {
+    return axios__WEBPACK_IMPORTED_MODULE_0___default.a.get("/api/category/".concat(id)).then(function (res) {
       if (res.status) {
         return res.data;
       }
@@ -53208,14 +53198,17 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _router__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./router */ "./resources/js/router.js");
-/* harmony import */ var _prototype__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./prototype */ "./resources/js/prototype.js");
-/* harmony import */ var _prototype__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_prototype__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./api */ "./resources/js/api.js");
+/* harmony import */ var _prototype__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./prototype */ "./resources/js/prototype.js");
+/* harmony import */ var _prototype__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_prototype__WEBPACK_IMPORTED_MODULE_2__);
+
 
 
 
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
 window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
+window.api = _api__WEBPACK_IMPORTED_MODULE_1__["default"];
 var app = new Vue({
   el: '#app',
   router: _router__WEBPACK_IMPORTED_MODULE_0__["default"]
@@ -53350,15 +53343,14 @@ __webpack_require__.r(__webpack_exports__);
 /*!******************************************!*\
   !*** ./resources/js/components/home.vue ***!
   \******************************************/
-/*! no static exports found */
+/*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _home_vue_vue_type_template_id_fa6affac___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./home.vue?vue&type=template&id=fa6affac& */ "./resources/js/components/home.vue?vue&type=template&id=fa6affac&");
 /* harmony import */ var _home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./home.vue?vue&type=script&lang=js& */ "./resources/js/components/home.vue?vue&type=script&lang=js&");
-/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));
-/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
 
@@ -53388,7 +53380,7 @@ component.options.__file = "resources/js/components/home.vue"
 /*!*******************************************************************!*\
   !*** ./resources/js/components/home.vue?vue&type=script&lang=js& ***!
   \*******************************************************************/
-/*! no static exports found */
+/*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -53609,8 +53601,8 @@ var routes = [{
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Jiawei\desktop\test\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Jiawei\desktop\test\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\Jiawei\Desktop\test\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Jiawei\Desktop\test\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
